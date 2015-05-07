@@ -13,6 +13,8 @@
 		<item value="org.eclipse.rcp:4.3.2.v20140221-1700"/>
 		<item value="org.radrails.rails:3.6.1.1408558425-7n-7Z7oRIvAHSB7Z"/>
 	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
 	<section name="SaveAsDialogSettings">
 		<item value="525" key="DIALOG_WIDTH"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
