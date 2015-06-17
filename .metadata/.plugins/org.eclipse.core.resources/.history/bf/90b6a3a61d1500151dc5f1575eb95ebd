@@ -189,7 +189,7 @@
         		<div class="col-sm-1">
         			<img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         		</div>
-        		<div class="col-sm-1">
+        		<<div class="col-sm-1">
         			<img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
         		</div> 
       		</div>

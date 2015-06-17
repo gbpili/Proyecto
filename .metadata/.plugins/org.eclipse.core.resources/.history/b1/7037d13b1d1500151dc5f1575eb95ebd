@@ -183,15 +183,15 @@
         		<div class="col-md-3">
         			<h2 class="featurette-heading">Síguenos en:</h2>
         		</div>
-        		<div class="col-sm-1">
+        		<div class="col">
         			<img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
         		</div>
-        		<div class="col-sm-1">
+        		<div class="col">
         			<img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         		</div>
-        		<div class="col-sm-1">
+        		<!--<div class="col">
         			<img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
-        		</div> 
+        		</div> -->
       		</div>
       		
 			 <hr class="featurette-divider">
