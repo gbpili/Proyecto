@@ -124,7 +124,7 @@
 			<!-- Tres columnas bajo el carousel -->
 			<div class="row">
 				<div class="col-lg-4">
-					<img class="img-rounded" src="imagenes/annapurna-base-camp-trek.jpg" alt="Trekking Manaslu" width="140" height="140">
+					<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
 					<h2>Trekking</h2>
 					<p>
 						Aquí podrás encontrar una amplia gama de trekkings para realizar. Todo dependerá de tu forma física y tus ganas.

@@ -124,33 +124,33 @@
 			<!-- Tres columnas bajo el carousel -->
 			<div class="row">
 				<div class="col-lg-4">
-					<img class="img-rounded" src="imagenes/annapurna-base-camp-trek.jpg" alt="Trekking Manaslu" width="140" height="140">
-					<h2>Trekking</h2>
+					<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+					<h2>Heading</h2>
 					<p>
-						Aquí podrás encontrar una amplia gama de trekkings para realizar. Todo dependerá de tu forma física y tus ganas.
+						Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.
 					</p>
 					<p>
-						<a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a>
+						<a class="btn btn-default" href="#" role="button">View details &raquo;</a>
 					</p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4">
 					<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-					<h2>Expediciones</h2>
+					<h2>Heading</h2>
 					<p>
-						Una gran aventura. Todo un reto  ¿Estas dispuesto a vivirlo...?
+						Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.
 					</p>
 					<p>
-						<a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a>
+						<a class="btn btn-default" href="#" role="button">View details &raquo;</a>
 					</p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4">
 					<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-					<h2>Crea tu aventura</h2>
+					<h2>Heading</h2>
 					<p>
-						¿Quieres realizar una actividad pero ninguna se ajusta a lo que deseas?. Cuéntanos que quieres y te ayudamos.
+						Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 					</p>
 					<p>
-						<a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a>
+						<a class="btn btn-default" href="#" role="button">View details &raquo;</a>
 					</p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
@@ -161,12 +161,26 @@
 
 			<div class="row featurette">
 				<div class="col-md-7">
-					<h2 class="featurette-heading"><span class="text-primary">Próximas actividades ¡¡No las dejes escapar!!</span></h2>
+					<h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
 					<p class="lead">
-						Aquí te informamos de las actividades que se realizarán pronto, para que si te interesa puedas apuntarte para completar el grupo y que te sea más económica.
+						Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
 					</p>
 				</div>
 				<div class="col-md-5">
+					<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+				</div>
+			</div>
+
+			<hr class="featurette-divider">
+
+			<div class="row featurette">
+				<div class="col-md-7 col-md-push-5">
+					<h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+					<p class="lead">
+						Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+					</p>
+				</div>
+				<div class="col-md-5 col-md-pull-7">
 					<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
 				</div>
 			</div>
@@ -192,10 +206,10 @@
 			<!-- FOOTER -->
 			<footer>
 				<p class="pull-right">
-					<a href="#">Subir</a>
+					<a href="#">Back to top</a>
 				</p>
 				<p>
-					&copy; 2015 ATVSport. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>
+					&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>
 				</p>
 			</footer>
 
