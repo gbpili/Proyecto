@@ -81,7 +81,7 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="item active">
-					<img class="first-slide" src="imagenes/big/CB Everest 1.JPG" alt="CB Everest">
+					<img class="first-slide" src="imagenes/big/kanchenjunga-expedition-nepal.jpg" alt="CB Everest">
 					<div class="container">
 						<div class="carousel-caption">
 							<!-- <h1>Example headline.</h1>
@@ -91,7 +91,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img class="second-slide" src="imagenes/big/Tour montayselva1.JPG" alt="Tour Montaña">
+					<img class="second-slide" src="imagenes/big/manaslu-trekking.jpg" alt="Tour Montaña">
 					<div class="container">
 						<div class="carousel-caption">
 							<!-- <h1>Another example headline.</h1>
@@ -101,7 +101,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img class="third-slide" src="imagenes/big/ktm1.JPG" alt="Katmandú">
+					<img class="third-slide" src="imagenes/big/chitwan-jungle-safari.jpg" alt="Safari Chitwan">
 					<div class="container">
 						<div class="carousel-caption">
 							<!-- <h1>One more for good measure.</h1>

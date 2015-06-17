@@ -101,7 +101,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img class="third-slide" src="imagenes/big/ktm1.JPG" alt="Katmandú">
+					<img class="third-slide" src="imagenes/big/chitwan-jungle-safari.jpg" alt="Safari Chitwan">
 					<div class="container">
 						<div class="carousel-caption">
 							<!-- <h1>One more for good measure.</h1>
@@ -127,7 +127,7 @@
 					<img class="img-rounded" src="imagenes/big/CB Everest 2.JPG" alt="Trekking Everest" width="330" height="240">
 					<h2>Trekking</h2>
 					<p>
-						Encuentra una amplia gama de trekkings para realizar. Todo dependerá de tu forma física y tus ganas.
+						Aquí podrás encontrar una amplia gama de trekkings para realizar. Todo dependerá de tu forma física y tus ganas.
 					</p>
 					<p>
 						<a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a>
@@ -167,7 +167,7 @@
 					</p>
 				</div>
 				<div class="col-md-5">
-					<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Actividades">
+					<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
 				</div>
 			</div>
 

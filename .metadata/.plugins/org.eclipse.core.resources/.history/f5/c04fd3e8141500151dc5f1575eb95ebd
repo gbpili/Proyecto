@@ -101,7 +101,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img class="third-slide" src="imagenes/big/ktm1.JPG" alt="Katmandú">
+					<img class="third-slide" src="imagenes/big/chitwan-jungle-safari.jpg" alt="Safari Chitwan">
 					<div class="container">
 						<div class="carousel-caption">
 							<!-- <h1>One more for good measure.</h1>
@@ -124,17 +124,17 @@
 			<!-- Tres columnas bajo el carousel -->
 			<div class="row">
 				<div class="col-lg-4">
-					<img class="img-rounded" src="imagenes/big/CB Everest 2.JPG" alt="Trekking Everest" width="330" height="240">
+					<img class="img-rounded" src="imagenes/big/CB Everest 2.JPG" alt="Trekking Everest" width="200" height="160">
 					<h2>Trekking</h2>
 					<p>
-						Encuentra una amplia gama de trekkings para realizar. Todo dependerá de tu forma física y tus ganas.
+						Aquí podrás encontrar una amplia gama de trekkings para realizar. Todo dependerá de tu forma física y tus ganas.
 					</p>
 					<p>
 						<a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a>
 					</p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4">
-					<img class="img-rounded" src="imagenes/big/Vistas Everest2.JPG" alt="Expedición Annapurna" width="330" height="240">
+					<img class="img-rounded" src="imagenes/big/annapurna-expedition-nepal.jpg" alt="Expedición Annapurna" width="200" height="160">
 					<h2>Expediciones</h2>
 					<p>
 						Una gran aventura. Todo un reto <br /> ¿Estas dispuesto a vivirlo...?
@@ -144,7 +144,7 @@
 					</p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4">
-					<img class="img-rounded" src="imagenes/big/Vistas Everest3.JPG" alt="Tu aventura" width="330" height="240">
+					<img class="img-rounded" src="imagenes/small/filming-nepal.jpg" alt="Tu aventura" width="270" height="180">
 					<h2>Crea tu aventura</h2>
 					<p>
 						¿Quieres realizar una actividad pero ninguna se ajusta a lo que deseas?. Cuéntanos que quieres y te ayudamos.
@@ -167,7 +167,7 @@
 					</p>
 				</div>
 				<div class="col-md-5">
-					<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Actividades">
+					<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
 				</div>
 			</div>
 
