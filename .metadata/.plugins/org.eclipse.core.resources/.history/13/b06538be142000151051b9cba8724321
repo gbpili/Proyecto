@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico">
 
-		<title>Actividades Expediciones</title>
+		<title>Trekking </title>
 		
 		 <!-- Bootstrap core CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -62,22 +62,15 @@
 				</div><!--/.nav-collapse -->
 			</div>
 		  </nav>
-		      <!-- Main jumbotron for a primary marketing message or call to action -->
-   		  <div class="jumbotron">
-      		  <div class="container">
-        		  <h1>EXPEDICIONES</h1>
-        			 <p>A continuación encontrará las expediciones más interesantes de las que puede disfrutar.</p>
-        	  </div>
-    	  </div>
-
-		  <div class="container marketing">
-      		
-      		  <div class="row">
+		      
+		  <!-- Container -->    
+		  <div class="container-fluid">
+      		<div class="row-fluid">
         	    <div class="col-md-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Everest/grieta3.jpeg" alt="Expedición Everest"/>
-          		   <h2>Expedición Everest </h2>
-          		    <p>Atrévete a intentar escalar la montaña más alta del mundo. </p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
+        	      <figure>
+        	      	 <img class="img-responsive center-block" src="imagenes/big/annapurna/Anapurna amanecer intento.jpg" alt="Trek Annapurna"/>
+        	      </figure>
+        	      
         		</div>
         		<div class="col-md-4">
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Makalu/makalu-exp.jpg" alt="Expedición Makalu"/>

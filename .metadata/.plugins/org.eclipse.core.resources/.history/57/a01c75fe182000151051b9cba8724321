@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico">
 
-		<title>Actividades Expediciones</title>
+		<title>Trekking </title>
 		
 		 <!-- Bootstrap core CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -62,60 +62,40 @@
 				</div><!--/.nav-collapse -->
 			</div>
 		  </nav>
-		      <!-- Main jumbotron for a primary marketing message or call to action -->
-   		  <div class="jumbotron">
-      		  <div class="container">
-        		  <h1>EXPEDICIONES</h1>
-        			 <p>A continuación encontrará las expediciones más interesantes de las que puede disfrutar.</p>
-        	  </div>
-    	  </div>
-
-		  <div class="container marketing">
-      		
-      		  <div class="row">
+		      
+		  <!-- Container -->    
+		  <div class="container-fluid">
+		  	<h1 align="center"> TREKKING ANNAPURNAS </h1> 	 
+		
+      		<div class="row-fluid">
         	    <div class="col-md-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Everest/grieta3.jpeg" alt="Expedición Everest"/>
-          		   <h2>Expedición Everest </h2>
-          		    <p>Atrévete a intentar escalar la montaña más alta del mundo. </p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
+        	      <figure>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/annapurna/Anapurna amanecer intento.jpg" alt="Trek Annapurna"/>
+        	      </figure>
+        	      
         		</div>
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Makalu/makalu-exp.jpg" alt="Expedición Makalu"/>
-         		   <h2>Expedición Makalu</h2>
-          			<p>La quinta montaña más alta del mundo situada muy cerca del Everest. </p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
+        		<div class="col-md-2">
+        			
+        		</div>
+        		<div class="col-md-2">
+        		  <h3>Duración</h3>
+          			<h2><p><span class="label label-info">23 días</span></p></h2>
+          			
        			</div>
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Manaslu/manaslu-exp.JPG" alt="Expedición Manaslu"/>
-          		   <h2>Expedición Manaslu</h2>
-          			<p>Uno de los más majestuosos picos de Nepal.</p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
-        		</div>
+        		<div class="col-md-2">
+        		  <h3>Precio</h3>
+          			<h2><p><span class="label label-info">1.800€</span></p></h2>
+           		</div>
+           		<div class="col-md-2">
+        		  <h3>Altitud Máxima</h3>
+          			<h2><p><span class="label label-info">2.850m</span></p></h2>
+           		</div>
       		  </div>
 		
-			  <div class="row">
-        	    <div class="col-md-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/annapurna/annapurna-exp.JPG" alt="Expedición Annapurna"/>
-          		   <h2>Expedición Annapurna </h2>
-          		    <p>Un pico impresionante que se enuentra en la zona occidental de Nepal. </p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Lhotse/lhotse-exp.JPG" alt="Expedición Lhotse"/>
-         		   <h2>Expedición Lhotse</h2>
-          			<p>A la sombra del Everest se encuentra esta espectacular montaña. </p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
-       			</div>
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/ama Dablam/amadablam-exp.JPG" alt="Expedición Ama-Dablam"/>
-          		   <h2>Expedición Ama-Dablam</h2>
-          			<p>Ama-Dablam es conocida por su increible belleza. </p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-      		  </div>
+			
 		   
 		     <hr class="featurette-divider">
-		     
+		 	</div><!-- /.container -->    
 		    <!-- FOOTER -->
 			<footer>
 			  <div class="row featurette">
@@ -145,7 +125,7 @@
 				&copy; 2015 ATVSport. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>
 			  </p>
 			</footer>
-		</div><!-- /.container -->
+	
 	  </div>
 		<!-- Bootstrap core JavaScript
 		================================================== -->
