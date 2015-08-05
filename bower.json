@@ -1,0 +1,19 @@
+{
+  "name": "ATVSPORT",
+  "version": "0.0.0",
+  "authors": [
+    "Pilar Llaves  <gbpili@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  },
+  "description": "Proyecto Web"
+}
