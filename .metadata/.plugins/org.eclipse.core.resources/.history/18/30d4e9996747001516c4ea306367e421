@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico">
 
-		<title>Expedicion Makalu</title>
+		<title>Expedicion Ama-Dablam</title>
 		
 		 <!-- Bootstrap core CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -67,12 +67,12 @@
 		      
 		  <!-- Container -->    
 		  <div class="container">
-		  	<h1 align="center"> EXPEDICION MAKALU </h1> 	 
+		  	<h1 align="center"> EXPEDICION AMA-DABLAM </h1> 	 
 			
       		<div class="row">
         	    <div class="col-md-5">
         	      <figure>
-        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Makalu/makalu-exp3.JPG" alt="Exped Makalu"/>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Ama Dablam/amadablam-expedition-nepal.jpg" alt="Exped Ama-Dablam"/>
         	      </figure>
         	      
         		</div>
@@ -80,7 +80,7 @@
         	        	
         		<div class="col-md-2">
         		  <h3>Duración</h3>
-          			<h2><p><span class="label label-info">60 días</span></p></h2>
+          			<h2><p><span class="label label-info">27 días</span></p></h2>
           		</div>
         		<div class="col-md-2">
         		  <h3>Precio</h3>
@@ -88,13 +88,12 @@
            		</div>
            		<div class="col-md-2">
         		  <h3>Altitud Máxima</h3>
-          			<h2><p><span class="label label-info">8.463m</span></p></h2>
+          			<h2><p><span class="label label-info">6.812m</span></p></h2>
            		</div>
            		<div class="container">
            		  <div class="jumbotron">	<!-- Introduccion-->
-              		<p>Makalu es la quinta montaña más alta del mundo. Es un pico aislado, situado a sólo 14 millas al este del Monte Everest. Sólo su tamaño es impresionante, 
-              			pero su estructura, la de una pirámide perfecta con cuatro cantos afilados, hacen de esta montaña aún más espectacular. <br />
-              			Es una subida difícil y de la que es necesaria mucha técnica, pero seguro que todo el esfuerzo merece la pena. <br />
+              		<p>Ama-Dablam es conocido por su increíble belleza. Situado al sur del Everest y Lhotse, se caracteriza por paredes verticales y las expuestas crestas afiladas. Subimos a través de la arista suroeste, que es la ruta de ascenso clásica. 
+              			La escalada requiere una sólida formación y experiencia previa en montañismo de gran altitud, es por ello que es uno de los picos más codiciados del mundo. <br /> 
 					</p>
 				    <a href="#">
 				      <button type="button" class="btn btn-info btn-block">Reservar</button> 
@@ -124,7 +123,7 @@
 			  	<p>Dia 11 : Trek Lobuche - Gorak Shep (5.150m). <br />
 				   Dia 12 : Trek Gorak Shep - CB Everest (5.400m). <br />
 			  	   Dia 13 : Aclimatación. <br />
-			  	   Dia 14-57 : Conquista del Everest y regreso al campo base. <br />
+			  	   Dia 14-57 : Periodo de escalada al Everest y regreso al campo base. <br />
 				   Dia 58 : Descanso en campo base. <br />
 				   Dia 59 : Trek CB Everest - Pheriche. <br />
 				   Dia 60 : Trek Pheriche - Namche Bazaar. <br />
