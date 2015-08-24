@@ -9,9 +9,9 @@
 
 		<link rel="icon" href="../../favicon.ico">
 
-		<title>Visitas Culturales</title>
+		<title>Kathmandu Cultural</title>
 		
-			 <!-- Bootstrap core CSS -->
+		 <!-- Bootstrap core CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
    	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
       
@@ -47,7 +47,7 @@
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="#">Inicio</a></li>
+						<li class="active"><a href="index.html">Inicio</a></li>
 						<li><a href="#about">Sobre nosotros</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
@@ -64,61 +64,82 @@
 				</div><!--/.nav-collapse -->
 			</div>
 		  </nav>
-		      <!-- Main jumbotron for a primary marketing message or call to action -->
-   		  <div class="jumbotron">
-      		  <div class="container">
-        		  <h1>VISITAS CULTURALES</h1>
-        			 <p>A continuación encontrará unas fantásticas actividades culturales para realizar en Nepal</p>
-        	  </div>
-    	  </div>
-
-		  <div class="container marketing">
-      		
-      		  <div class="row">
-        	    <div class="col-md-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini.jpg" alt="Tour Lumbini"/>
-          		   <h2>Tour Lumbini </h2>
-          		    <p>Descubre Lumbini, una ciudad que te sorprenderá. </p>
-          			<p><a class="btn btn-default" href="lumbini.html" role="button">VER MÁS &raquo;</a></p>
+		      
+		  <!-- Container -->    
+		  <div class="container">
+		  	<h1 align="center"> KATHMANDU CULTURAL </h1> 	 
+			
+      		<div class="row">
+        	    <div class="col-md-5">
+        	      <figure>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/ktm2.JPG" alt="Kathmandu"/>
+        	      </figure>
+        	      
         		</div>
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/ktm.jpg" alt="Kathmandu"/>
-         		   <h2>Kathmandú Cultural</h2>
-          			<p>Visita los lugares más emblemáticos de Kathmandú. </p>
-          			<p><a class="btn btn-default" href="exp-makalu.html" role="button">VER MÁS &raquo;</a></p>
-       			</div>
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/chitwan.jpg" alt="Tour Chitwan"/>
-          		   <h2>Paquete Tour Chitwan</h2>
-          			<p>Tour para descubrir los tesoros de Nepal.</p>
-          			<p><a class="btn btn-default" href="exp-manaslu.html" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-      		  </div>
-		
-			  <div class="row">
-			  	<div class="col-md-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/sirubari1.jpg" alt="Tour Sirubari"/>
-          		   <h2>Tour Sirubari Village </h2>
-          		    <p>Sirubari, precioso pueblo situado muy cerca de Pokhara. </p>
-          			<p><a class="btn btn-default" href="exp-everest.html" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-        	    
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/tour-montayselva2.jpg" alt="Tour Selva"/>
-         		   <h2>Tour Montaña y Selva</h2>
-          			<p>Un completo tour para disdrutar al máximo. </p>
-          			<p><a class="btn btn-default" href="tour-montayselva.html" role="button">VER MÁS &raquo;</a></p>
-       			</div>
-        		<div class="col-md-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lhasa3.jpg" alt=""Expedición Ama-Dablam"Tou Lhasa"/>
-          		   <h2>Tour Lhasa</h2>
-          			<p>Visita una de las ciudades más bonitas del Tibet. </p>
-          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-      		  </div>
-		   
-		     <hr class="featurette-divider">
-		     
+        		<div class="col-md-1"></div>
+        	        	
+        		<div class="col-md-3">
+        		  <h3>Duración</h3>
+          			<h2><p><span class="label label-info">7 días</span></p></h2>
+          		</div>
+        		<div class="col-md-3">
+        		  <h3>Precio</h3>
+          			<h2><p><span class="label label-info">Consultar</span></p></h2>
+           		</div>
+           		
+           		<div class="container">
+           		  <div class="jumbotron">	<!-- Introduccion-->
+              		<p>Un tour fantástico por el valle de Kathmandú visitando los lugares más emblemáticos y turísticos, donde se podrá maravillar por los fabulosos templos religiosos y la diversidad de productos
+              		   que puede encontrar en sus tiendas. <br /> Un viaje que no olvidará fácilmente y que le enseñará en poco tiempo la esencia de Kathmandú.<br /> <br /> <br /> <br />
+					</p>
+				    <a href="#">
+				      <button type="button" class="btn btn-info btn-block">Reservar</button> 
+				    </a>
+           		  </div>  <!-- jumbotron -->
+           		</div> <!-- container -->
+      		</div> <!-- row -->
+			
+			<article class="row" tabindex="">
+			  <h2>ITINERARIO</h2> <br />
+			  	<p>Dia 01 : Llegada a Kathmandu (KTM). Traslado al hotel . <br />
+				   Dia 02 : Swayambhunath – Boudhanath – Pashupatinath. Thamel. <br />
+				   Dia 03 : Durbar Square – Patan. Traslado a Nagarkot. <br />
+				   Dia 04 : Visita en Nagarkot y traslado a Bhaktapur. <br />
+				   Dia 05 : Vuelo de montaña. Traslado a KTM. <br />
+			  	   Dia 06 : Dia libre para visitar KTM o realizar compras. <br />
+				   Dia 07 : Traslado a aeropuerto internacional y vuelo de regreso.  <br />
+			  	</p>
+			</article>	  
+			<hr class="featurette-divider">
+			<hr class="featurette-divider">
+			<article class="row">
+			  <div class="col-md-7">
+			  	<h3>SERVICIOS INCLUIDOS</h3> <br /> 
+			  	<p>+ Entradas a monumentos y traslados entre visitas y ciudades.
+			  	   + Traslados entre el aeropuerto y Kathmandu. <br />
+			  	   + Vuelo de montaña. <br />
+				   + Alojamientos:<br />
+				     &nbsp; &nbsp;* Kathmandu => Hotel Gangjong en habitación doble durante 5 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Nagarkot => Hotel en habitación doble durante 1 noche con cena y desayuno. <br />
+				   + Staff: <br />
+				     &nbsp; &nbsp;* Guía local. <br />
+				</p>
+			  </div>
+			  <div class="col-md-5">
+			    <h3>SERVICIOS NO INCLUIDOS</h3> <br />
+			  	<p>+ Costes extras por variaciones del programa previsto. <br />
+			  	   + Seguro de viaje personal. <br />
+				   + Comidas no especificadas y extras durante estancias, así como almuerzos y cenas en ciudades. <br />
+				   + Gastos personales / Facturas de bar. <br />
+				   + Propinas para el personal. <br />
+				   + Seguros de cancelación. <br />
+				   
+			  	</p>
+			  </div>
+			</article>	  
+			 
+		    <hr class="featurette-divider">
+		 	 
 		    <!-- FOOTER -->
 			<footer>
 			  <div class="row featurette">
@@ -148,7 +169,8 @@
 				&copy; 2015 ATVSport. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>
 			  </p>
 			</footer>
-		</div><!-- /.container -->
+		</div><!-- /.container -->   
+	
 	  </div>
 		<!-- Bootstrap core JavaScript
 		================================================== -->

@@ -79,7 +79,7 @@
         	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini.jpg" alt="Tour Lumbini"/>
           		   <h2>Tour Lumbini </h2>
           		    <p>Descubre Lumbini, una ciudad que te sorprenderá. </p>
-          			<p><a class="btn btn-default" href="lumbini.html" role="button">VER MÁS &raquo;</a></p>
+          			<p><a class="btn btn-default" href="exp-annapurna.html" role="button">VER MÁS &raquo;</a></p>
         		</div>
         		<div class="col-md-4">
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/ktm.jpg" alt="Kathmandu"/>
@@ -107,7 +107,7 @@
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/tour-montayselva2.jpg" alt="Tour Selva"/>
          		   <h2>Tour Montaña y Selva</h2>
           			<p>Un completo tour para disdrutar al máximo. </p>
-          			<p><a class="btn btn-default" href="tour-montayselva.html" role="button">VER MÁS &raquo;</a></p>
+          			<p><a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a></p>
        			</div>
         		<div class="col-md-4">
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lhasa3.jpg" alt=""Expedición Ama-Dablam"Tou Lhasa"/>
