@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico">
 
-		<title>Tour Lumbini</title>
+		<title>Tour Lhasa</title>
 		
 		 <!-- Bootstrap core CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -67,12 +67,12 @@
 		      
 		  <!-- Container -->    
 		  <div class="container">
-		  	<h1 align="center"> TOUR LUMBINI </h1> 	 
+		  	<h1 align="center"> TOUR LHASA (TIBET) </h1> 	 
 			
       		<div class="row">
         	    <div class="col-md-5">
         	      <figure>
-        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini5.jpg" alt="Tour Lumbini"/>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lhasa2.jpg" alt="Lhasa"/>
         	      </figure>
         	      
         		</div>
@@ -80,7 +80,7 @@
         	        	
         		<div class="col-md-3">
         		  <h3>Duración</h3>
-          			<h2><p><span class="label label-info">6 días</span></p></h2>
+          			<h2><p><span class="label label-info">10 días</span></p></h2>
           		</div>
         		<div class="col-md-3">
         		  <h3>Precio</h3>
@@ -89,8 +89,8 @@
            		
            		<div class="container">
            		  <div class="jumbotron">	<!-- Introduccion-->
-              		<p>Aunque es el lugar más sagrado para los budistas, Lumbini se ha mantenido en gran medida en la sombra durante la mayor parte del tiempo, en parte debido a la propagación de desinformación a nivel mundial que Lumbini se encuentra en la India.
-              		   Después de que fue verificado por la UNESCO como el lugar de nacimiento de Gautama Buda y su inclusión en la lista del patrimonio mundial, que ha comenzado lentamente para obtener el centro de atención internacional. <br /> <br />
+              		<p>Lhasa, capital de la región del Tibet, se encuentra rodeado por las montañas del Himalaya. La ciudad es la sede tradicional de los lamas y lugar donde podrá encontrar los palacios más emblemáticos del budismo tibetano. <br /> 
+              		   Un viaje a la espiritualidad, que seguro no le deja indiferente.<br /> <br /> <br />
 					</p>
 				    <a href="#">
 				      <button type="button" class="btn btn-info btn-block">Reservar</button> 
@@ -100,36 +100,48 @@
       		</div> <!-- row -->
 			
 			<article class="row">
-			  <h2>ITINERARIO</h2> <br />
-			
-			  	<p>Dia 01 : Llegada a Kathmandu (KTM). Traslado al hotel. <br />
-				   Dia 02 : Vuelo o traslado en vehículo privado desde KTM a Lumbini. <br />
-				   Dia 03 : Visita Lumbini, Gotihawa, y Tilaurakot vía Kudan. Regreso a Lumbini. <br />
-				   Dia 04 : Traslado en vehículo privado desde Lumbini a Devadaha y Ramagrama, y vuelo o traslado de nuevo en vehículo a KTM. <br />
-				   Dia 05 : Visita por la mañana temprano del área del monte Everest en avioneta. Tarde libre en KTM. <br />
-			  	   Dia 06 : Traslado a aeropuerto internacional y vuelo de regreso. <br /> 
+			<h2>ITINERARIO</h2> <br />
+			 <div class="col-md-6">
+			  	<p>Dia 01 : Llegada a Kathmandu (KTM). Traslado al hotel . <br />
+				   Dia 02 : Vuelo KTM - Gonggar. Traslado a Lhasa (3.650m). <br />
+				   Dia 03 : Visita a Lhasa: Desayuno. Templo Jokhang. Barkhor Bazar. Monasterio de Sera.<br />
+				   Dia 04 : Visita a Lhasa: Desayuno. Palacio de Potala. Monasterio Drepung. <br />
+				   Dia 05 : Lhasa – Gyantse (3.950m): Desayuno. Río Brahmaputra y lago Yamdrok, Kambala (4.794m), Karola(5.010m). <br />
+			  	   			   
+			  	</p>
+			  </div>
+			  <div class="col-md-6">
+			  	<p>Dia 06 : Gyantse – Xigatse (3.900m). Desayuno, estupa Kumbum y monasterio Phalkor. Monasterio Tashilhumpu. <br />
+				   Dia 07 : Xigatse – Xegar (4.250m). Desayuno, Gyatchu La (5.220m), el puerto más elevado. <br />
+				   Dia 08 : Xagar – Zhangmu (2.500m). <br />
+				   Dia 09 : Zhangmu – KTM. <br />
+				   Dia 10 : Traslado a aeropuerto internacional y vuelo de regreso.  <br />
 				   
 			  	</p>
+			  </div>
 			</article>	  
 			<hr class="featurette-divider">
 			<hr class="featurette-divider">
 			<article class="row">
 			  <div class="col-md-7">
 			  	<h3>SERVICIOS INCLUIDOS</h3> <br /> 
-			  	<p>+ Traslados entre el aeropuerto y Kathmandu. <br />
-				   + Vuelos o traslados en vehículo entre Kathmandu y Lumbini. <br />
-				   + Alojamientos:<br />
-				     &nbsp; &nbsp;* Kathmandu => Hotel Gangjong en habitación doble durante 3 noches con desayuno. <br />
-				     &nbsp; &nbsp;* Lumbini => Hotel en habitación doble durante 2 noches con desayuno. <br />
-				   + Staff: Guía local. <br />
-				 
-			   	</p>
+			  	<p>+ Entradas a monumentos y traslados entre visitas y ciudades.
+			  	   + Traslados entre el aeropuerto y Kathmandu. <br />
+			  	   + Visado Tibet y tasas aeropuerto Lhasa. <br />
+			  	   + Alojamientos:<br />
+				     &nbsp; &nbsp;* Kathmandu => Hotel Gangjong en habitación doble durante 2 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Lhasat => Hotel en habitación doble durante 3 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Alojamientos entre trayecto Lhasa - KTM (pensión completa). <br />
+				   + Staff: <br />
+				     &nbsp; &nbsp;* Guía local. <br />
+				</p>
 			  </div>
 			  <div class="col-md-5">
 			    <h3>SERVICIOS NO INCLUIDOS</h3> <br />
 			  	<p>+ Costes extras por variaciones del programa previsto. <br />
 			  	   + Seguro de viaje personal. <br />
 				   + Comidas no especificadas y extras durante estancias, así como almuerzos y cenas en ciudades. <br />
+				   + Gastos personales / Facturas de bar. <br />
 				   + Propinas para el personal. <br />
 				   + Seguros de cancelación. <br />
 				   

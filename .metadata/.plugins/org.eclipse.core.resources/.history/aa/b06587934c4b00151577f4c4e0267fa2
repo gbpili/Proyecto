@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico">
 
-		<title>Tour Lumbini</title>
+		<title>Tour Chitwan</title>
 		
 		 <!-- Bootstrap core CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -67,12 +67,12 @@
 		      
 		  <!-- Container -->    
 		  <div class="container">
-		  	<h1 align="center"> TOUR LUMBINI </h1> 	 
+		  	<h1 align="center"> PAQUETE TOUR CHITWAN </h1> 	 
 			
       		<div class="row">
         	    <div class="col-md-5">
         	      <figure>
-        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini5.jpg" alt="Tour Lumbini"/>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/chitwan2.JPG" alt="Tour Chitwan"/>
         	      </figure>
         	      
         		</div>
@@ -80,7 +80,7 @@
         	        	
         		<div class="col-md-3">
         		  <h3>Duración</h3>
-          			<h2><p><span class="label label-info">6 días</span></p></h2>
+          			<h2><p><span class="label label-info">15 días</span></p></h2>
           		</div>
         		<div class="col-md-3">
         		  <h3>Precio</h3>
@@ -89,8 +89,8 @@
            		
            		<div class="container">
            		  <div class="jumbotron">	<!-- Introduccion-->
-              		<p>Aunque es el lugar más sagrado para los budistas, Lumbini se ha mantenido en gran medida en la sombra durante la mayor parte del tiempo, en parte debido a la propagación de desinformación a nivel mundial que Lumbini se encuentra en la India.
-              		   Después de que fue verificado por la UNESCO como el lugar de nacimiento de Gautama Buda y su inclusión en la lista del patrimonio mundial, que ha comenzado lentamente para obtener el centro de atención internacional. <br /> <br />
+              		<p>La visita de Kathmandu-Chitwan-Lumbini-Pokhara ofrece la oportunidad de poder explorar los tesoros culturales, con excursiones a los diferentes paisajes de Shivapuri. <br />
+              		   Además también podrá disfrutar no sólo de cultura, sino de naturaleza en vivo visitando el Parque Naciona de Chitwan, primer parque nacional de Nepal y declarado Patrimonio de la Humanidad por la UNESCO en 1984.  <br />
 					</p>
 				    <a href="#">
 				      <button type="button" class="btn btn-info btn-block">Reservar</button> 
@@ -101,36 +101,57 @@
 			
 			<article class="row">
 			  <h2>ITINERARIO</h2> <br />
-			
-			  	<p>Dia 01 : Llegada a Kathmandu (KTM). Traslado al hotel. <br />
-				   Dia 02 : Vuelo o traslado en vehículo privado desde KTM a Lumbini. <br />
-				   Dia 03 : Visita Lumbini, Gotihawa, y Tilaurakot vía Kudan. Regreso a Lumbini. <br />
-				   Dia 04 : Traslado en vehículo privado desde Lumbini a Devadaha y Ramagrama, y vuelo o traslado de nuevo en vehículo a KTM. <br />
-				   Dia 05 : Visita por la mañana temprano del área del monte Everest en avioneta. Tarde libre en KTM. <br />
-			  	   Dia 06 : Traslado a aeropuerto internacional y vuelo de regreso. <br /> 
+			   <div class="col-md-6">
+			  	<p>Dia 01 : Llegada a Kathmandu (KTM). Traslado al hotel . <br />
+				   Dia 02 : Preparativos en KTM. Compras de todo lo necesario para el viaje. <br />
+				   Dia 03 : Traslado en bus de KTM a Pokhara. <br />
+				   Dia 04 : Vuelo Pokhara - Jhomsom (2.550m) y traslado en bus a Marpha (2.650m). <br />
+				   Dia 05 : Trek Marpha - Tatopani (1.220m). <br />
+			  	   Dia 06 : Trek Tatopani - Ghorepani (2.850m). <br />
+				   Dia 07 : Trek Ghorepani - Shikha (1.950m). <br />
+				   Dia 08 : Trek Shikha- Tadapani (2.640m). <br />
 				   
 			  	</p>
+			  </div>
+			  <div class="col-md-6">
+			  	<p>Dia 09 : Trek Tadapani - Tolka (1.750m). <br />
+			  	   Dia 10 : Trek Tolka - Phedi (1.100m). Taxi hasta Pokhara. <br />
+			  	   Dia 11 : Trek Pokhara - Parque Nacional Chitwan. <br />
+				   Dia 12 : Parque Nacional Royal Chitwan. <br />
+				   Dia 13 : Traslado en bus de Chitwan a KTM. <br />
+				   Dia 14 : Dia libre para visitar KTM o realizar compras. <br />
+				   Dia 15 : Traslado a aeropuerto internacional y vuelo de regreso.  <br />
+				   
+			  	</p>
+			  </div>
 			</article>	  
 			<hr class="featurette-divider">
 			<hr class="featurette-divider">
 			<article class="row">
 			  <div class="col-md-7">
 			  	<h3>SERVICIOS INCLUIDOS</h3> <br /> 
-			  	<p>+ Traslados entre el aeropuerto y Kathmandu. <br />
-				   + Vuelos o traslados en vehículo entre Kathmandu y Lumbini. <br />
+			  	<p>+ Permiso de trekking y entrada a P.N.
+			  	   + Traslados entre el aeropuerto y Kathmandu. <br />
+				   + Vuelo Pokhara - Jomsom y traslados en bus entre las distintas ciudades. <br />
 				   + Alojamientos:<br />
-				     &nbsp; &nbsp;* Kathmandu => Hotel Gangjong en habitación doble durante 3 noches con desayuno. <br />
-				     &nbsp; &nbsp;* Lumbini => Hotel en habitación doble durante 2 noches con desayuno. <br />
-				   + Staff: Guía local. <br />
-				 
+				     &nbsp; &nbsp;* Kathmandu => Hotel Gangjong en habitación doble durante 4 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Pokhara => Hotel en habitación doble durante 2 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Chitwan => Hotel en habitación doble durante 2 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Trekking => Alojamiento en régimen de pensión completa (6 días). <br />
+				   + Staff: <br />
+				     &nbsp; &nbsp;* Guía local. <br />
+				     &nbsp; &nbsp;* Porteadores de trekking. <br />
 			   	</p>
 			  </div>
 			  <div class="col-md-5">
 			    <h3>SERVICIOS NO INCLUIDOS</h3> <br />
 			  	<p>+ Costes extras por variaciones del programa previsto. <br />
-			  	   + Seguro de viaje personal. <br />
-				   + Comidas no especificadas y extras durante estancias, así como almuerzos y cenas en ciudades. <br />
-				   + Propinas para el personal. <br />
+			  	   + Equipamiento personal para el trekking. <br />
+				   + Seguro de viaje personal. <br />
+				   + Almuerzos y cenas en Kathmandu. <br />
+				   + Evacuación o rescate de emergencia. <br />
+				   + Gastos personales / Facturas de bar. <br />
+				   + Propinas para el personal de trekking. <br />
 				   + Seguros de cancelación. <br />
 				   
 			  	</p>

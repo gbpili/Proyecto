@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico">
 
-		<title>Tour Lumbini</title>
+		<title>Tour Sirubari</title>
 		
 		 <!-- Bootstrap core CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -67,12 +67,12 @@
 		      
 		  <!-- Container -->    
 		  <div class="container">
-		  	<h1 align="center"> TOUR LUMBINI </h1> 	 
+		  	<h1 align="center"> TOUR POKHARA - SIRUBARI </h1> 	 
 			
       		<div class="row">
         	    <div class="col-md-5">
         	      <figure>
-        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini5.jpg" alt="Tour Lumbini"/>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/sirubari4.jpg" alt="Tour Sirubari"/>
         	      </figure>
         	      
         		</div>
@@ -80,7 +80,7 @@
         	        	
         		<div class="col-md-3">
         		  <h3>Duración</h3>
-          			<h2><p><span class="label label-info">6 días</span></p></h2>
+          			<h2><p><span class="label label-info">7 días</span></p></h2>
           		</div>
         		<div class="col-md-3">
         		  <h3>Precio</h3>
@@ -89,8 +89,8 @@
            		
            		<div class="container">
            		  <div class="jumbotron">	<!-- Introduccion-->
-              		<p>Aunque es el lugar más sagrado para los budistas, Lumbini se ha mantenido en gran medida en la sombra durante la mayor parte del tiempo, en parte debido a la propagación de desinformación a nivel mundial que Lumbini se encuentra en la India.
-              		   Después de que fue verificado por la UNESCO como el lugar de nacimiento de Gautama Buda y su inclusión en la lista del patrimonio mundial, que ha comenzado lentamente para obtener el centro de atención internacional. <br /> <br />
+              		<p>Vamos a conducir este viaje hacia una de las ciudades más misteriosas de Nepal, Pokhara. Vistas fascinantes de Pokhara, como la combinación de picos nevados y los lagos y ríos alimentados por esta nieve que contribuye a que el valle de Pokhara sea uno de los más pintorescos atractivos naturales. <br /> 
+              			<br />
 					</p>
 				    <a href="#">
 				      <button type="button" class="btn btn-info btn-block">Reservar</button> 
@@ -103,9 +103,9 @@
 			  <h2>ITINERARIO</h2> <br />
 			
 			  	<p>Dia 01 : Llegada a Kathmandu (KTM). Traslado al hotel. <br />
-				   Dia 02 : Vuelo o traslado en vehículo privado desde KTM a Lumbini. <br />
+				   Dia 02 : Vuelo o traslado en vehículo desde KTM a Lumbini. <br />
 				   Dia 03 : Visita Lumbini, Gotihawa, y Tilaurakot vía Kudan. Regreso a Lumbini. <br />
-				   Dia 04 : Traslado en vehículo privado desde Lumbini a Devadaha y Ramagrama, y vuelo o traslado de nuevo en vehículo a KTM. <br />
+				   Dia 04 : Traslado en vehículo desde Lumbini a Devadaha y Ramagrama, y vuelo o traslado de nuevo en vehículo a KTM. <br />
 				   Dia 05 : Visita por la mañana temprano del área del monte Everest en avioneta. Tarde libre en KTM. <br />
 			  	   Dia 06 : Traslado a aeropuerto internacional y vuelo de regreso. <br /> 
 				   
