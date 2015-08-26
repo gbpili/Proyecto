@@ -120,7 +120,7 @@
 
 			<!-- Tres columnas bajo el carousel -->
 			<div class="row">
-				<div class="col-lg-4">
+				<div class="col-xs-4">
 					<img class="img-rounded img-responsive" src="imagenes/big/Island Peak/island_peak-trek 2.JPG" alt="Trekking Island Peak" width="330" height="240">
 					<h2>Trekking</h2>
 					<p>
@@ -129,8 +129,8 @@
 					<p>
 						<a class="btn btn-default" href="treking.html" role="button">VER MÁS &raquo;</a>
 					</p>
-				</div><!-- /.col-lg-4 -->
-				<div class="col-lg-4">
+				</div><!-- /.col-xs-4 -->
+				<div class="col-xs-4">
 					<img class="img-rounded img-responsive" src="imagenes/big/Everest/Vistas Everest2.JPG" alt="Expedición Annapurna" width="330" height="240">
 					<h2>Expediciones</h2>
 					<p>
@@ -139,8 +139,8 @@
 					<p>
 						<a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a>
 					</p>
-				</div><!-- /.col-lg-4 -->
-				<div class="col-lg-4">
+				</div><!-- /.col-xs-4 -->
+				<div class="col-xs-4">
 					<img class="img-rounded img-responsive" src="imagenes/big/Everest/Vistas Everest3.JPG" alt="Tu aventura" width="330" height="240">
 					<h2>Crea tu aventura</h2>
 					<p>
@@ -149,7 +149,7 @@
 					<p>
 						<a class="btn btn-default" href="contacto.html" role="button">VER MÁS &raquo;</a>
 					</p>
-				</div><!-- /.col-lg-4 -->
+				</div><!-- /.col-xs-4 -->
 			</div><!-- /.row -->
 
 			<!-- START THE FEATURETTES -->
@@ -157,13 +157,13 @@
 			<hr class="featurette-divider">
 
 			<div class="row featurette">
-				<div class="col-md-7 col-md-push-5">
+				<div class="col-xs-7 col-xs-push-5">
 					<h2 class="featurette-heading"><span class="text-primary">Próximas actividades ¡¡No las dejes escapar!!</span></h2>
 					<p class="lead">
 						Aquí te informamos de las actividades que se realizarán pronto, para que si te interesa puedas apuntarte para completar el grupo y que te sea más económica.
 					</p>
 				</div>
-				<div class="col-md-5 col-md-pull-7">
+				<div class="col-xs-5 col-xs-pull-7">
 					<img class="featurette-image img-responsive center-block" src="imagenes/small/nepal-airlines.jpg" alt="Actividades">
 				</div>
 			</div>
@@ -180,13 +180,13 @@
         		<div class="col-md-3">
         			<h2 class="featurette-heading">Síguenos en:</h2>
         		</div>
-        		<div class="col-sm-1">
+        		<div class="col-xs-1">
         			<img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
         		</div>
-        		<div class="col-sm-1">
+        		<div class="col-xs-1">
         			<img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         		</div>
-        		<div class="col-sm-1">
+        		<div class="col-xs-1">
         			<img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
         		</div> 
       		</div>
