@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="625" key="dialogHeight"/>
+=======
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="72" key="DIALOG_X_ORIGIN"/>
+		<item value="-60" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="624" key="dialogHeight"/>
+>>>>>>> 90e4bac4c4e8d95cc60f16a691c139b2d0485ed9
 		<item value="1080" key="dialogWidth"/>
 		<list key="textEntries">
 		</list>
@@ -13,5 +22,12 @@
 		</list>
 	</section>
 	<section name="ImportExportAction">
+<<<<<<< HEAD
+=======
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+>>>>>>> 90e4bac4c4e8d95cc60f16a691c139b2d0485ed9
 	</section>
 </section>

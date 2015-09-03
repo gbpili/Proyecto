@@ -14,6 +14,20 @@
 		<item value="org.radrails.rails:3.6.1.1408558425-7n-7Z7oRIvAHSB7Z"/>
 	</list>
 	<section name="ExternalProjectImportWizard">
+<<<<<<< HEAD
+=======
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Pili\Documents\GitHub\Proyecto"/>
+			<item value="C:\Users\Pili\Documents\GitHub\Proyecto\ATVSPORT"/>
+			<item value="C:\Users\Pili\Documents\GitHub\Proyecto\WEB"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+>>>>>>> 90e4bac4c4e8d95cc60f16a691c139b2d0485ed9
 	</section>
 	<section name="SaveAsDialogSettings">
 		<item value="525" key="DIALOG_WIDTH"/>

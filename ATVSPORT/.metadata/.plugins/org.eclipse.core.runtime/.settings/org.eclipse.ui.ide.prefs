@@ -3,6 +3,10 @@ SHOW_COOLBAR=true
 SHOW_PERSPECTIVEBAR=true
 TOOLBAR_MANUALLY_ADJUSTED=true
 eclipse.preferences.version=1
+<<<<<<< HEAD
 platformState=1423075302929
+=======
+platformState=1440088966389
+>>>>>>> 90e4bac4c4e8d95cc60f16a691c139b2d0485ed9
 quickStart=false
 tipsAndTricks=true

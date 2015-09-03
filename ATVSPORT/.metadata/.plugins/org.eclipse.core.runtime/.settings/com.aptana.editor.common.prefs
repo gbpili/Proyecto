@@ -5,6 +5,10 @@ AbstractTextEditor.Color.Foreground.SystemDefault=false
 AbstractTextEditor.Color.SelectionForeground=0,0,0
 AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
 CONFLICTING_COLOR=255,61,61
+<<<<<<< HEAD
+=======
+CONTENT_ASSIST_USER_AGENT_FILTER_TYPE=none
+>>>>>>> 90e4bac4c4e8d95cc60f16a691c139b2d0485ed9
 INCOMING_COLOR=0,0,0
 OUTGOING_COLOR=0,0,0
 RESOLVED_COLOR=115,255,101
@@ -14,3 +18,7 @@ com.aptana.editor.common.characterPairColor=127,127,127
 currentLineColor=232,242,254
 deletionIndicationColor=255,61,61
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+selectUserAgents=com.aptana.projects.webnature\:IE,Chrome,Mozilla;org.radrails.rails.core.railsnature\:IE,Chrome,Mozilla;com.aptana.ruby.core.rubynature\:IE,Chrome,Mozilla;com.aptana.editor.php.phpNature\:Chrome,Mozilla,IE
+>>>>>>> 90e4bac4c4e8d95cc60f16a691c139b2d0485ed9
