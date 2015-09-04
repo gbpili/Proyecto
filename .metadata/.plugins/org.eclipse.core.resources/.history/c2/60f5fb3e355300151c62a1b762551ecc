@@ -1,0 +1,16 @@
+body {
+	
+	h1{
+		color: #2B1A3C;
+	}
+	li.dropdown-menu {
+		font-family: Verdana,Georgia,sans-serif;
+		color: #180827;
+	}
+	#navbar {
+		font-size: larger;
+	}
+	font-family: Verdana,Georgia,sans-serif;
+	background-color: #A39CAB;
+	color: #180827;
+}

@@ -1,0 +1,11 @@
+body {
+	font-family: Verdana,Georgia,sans-serif;
+	background-color: #A39CAB;
+	color: #180827;
+	h1{
+		color: #2B1A3C;
+	}
+	navbar {
+		font-size: larger;
+	}
+}
