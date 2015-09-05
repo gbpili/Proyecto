@@ -1,12 +1,11 @@
 body {
-	a{color:#A39CAB; font-family:Verdana;}
-	a:hover{color:#180827;}
+	
 	h1{
 		color: #2B1A3C;
 	}
-	/*.dropdown-menu{
-		font-size:small;
-	}*/
+	.dropdown-menu{
+		font-size:x-large;
+	}
 	font-family: Verdana,Georgia,sans-serif;
 	background-color: #A39CAB;
 	color: #180827;

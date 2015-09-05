@@ -16,10 +16,10 @@
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
 		
-		<link type="text/css" rel="stylesheet" href="text/css/carousel.css" />
-		<link type="text/css" rel="stylesheet" href="text/css/navbar-fixed-top.css" />
-		<link type="text/css" rel="stylesheet" href="text/css/jumbotron.css" />
-		<link type="text/css" rel="stylesheet" href="text/css/estilo.css" />
+		<link rel="stylesheet" href="text/css/carousel.css" />
+		<link rel="stylesheet" href="text/css/navbar-fixed-top.css" />
+		<link rel="stylesheet" href="text/css/jumbotron.css" />
+		<link rel="stylesheet" href="text/css/estilo.css" />
 		
 		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
 		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
