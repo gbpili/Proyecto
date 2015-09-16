@@ -16,10 +16,10 @@
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
 		
-		<link type="text/css" rel="stylesheet" href="text/css/carousel.css" />
 		<link type="text/css" rel="stylesheet" href="text/css/navbar-fixed-top.css" />
 		<link type="text/css" rel="stylesheet" href="text/css/jumbotron.css" />
 		<link type="text/css" rel="stylesheet" href="text/css/estilo.css" />
+		<link type="text/css" rel="stylesheet" href="text/css/carousel.css" />
 		
 		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
 		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -37,7 +37,7 @@
 
 	<body>
 		<!-- FIXED NAVBAR -->
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -50,12 +50,12 @@
 				 	  <img class="img-responsive" src="imagenes/sports.jpg" alt="ATV Sport">
 				 	</a>
 				</div>
-			<div id="navbar" class="navbar-collapse collapse">
+			<div id="navbar" class="navbar-collapse collapse pull-right">
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="index.html">Inicio</a></li>
 						<li><a href="nosotros.html">Sobre nosotros</a></li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades</a>
 							<ul class="dropdown-menu">
 								<li><a href="expediciones.html">Expediciones</a></li>
 								<li><a href="treking.html">Trekking</a></li>
@@ -74,7 +74,7 @@
 		================================================== -->
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			<!-- Indicators -->
-			<ol class="carousel-indicators">
+			<ol class="carousel-indicators" >
 				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1"></li>
 				<li data-target="#myCarousel" data-slide-to="2"></li>
@@ -84,8 +84,8 @@
 					<img class="first-slide img-responsive" src="imagenes/big/Everest/cb-everest.jpg" alt="CB Everest">
 					<div class="container">
 						<div class="carousel-caption">
-							<h1>AVENTURA</h1>
-							<h2><a href="#">Atrévete a vivir la experiencia</a><h2>
+							<h1 class="titulo">AVENTURA</h1>
+							<a class="cartel1" href="expediciones.html">Atrévete a vivir la experiencia</a>
 						</div>
 					</div>
 				</div>
@@ -93,28 +93,35 @@
 					<img class="second-slide img-responsive" src="imagenes/big/Visitas/tour-montayselva1.jpg" alt="Tour Montaña">
 					<div class="container">
 						<div class="carousel-caption">
-							<h1>MÁGIA</h1>
-							<h2><a href="#">Lugares inolvidables</a></h2>
+							<h1 class="titulo">MÁGIA</h1>
+							<a class="cartel1" href="treking.html">Lugares inolvidables</a>
 						</div>
 					</div>
 				</div>
 				<div class="item">
-					<img class="third-slide img-responsive" src="imagenes/big/Visitas/ktm1 red.jpg" alt="Katmandú">
+					<img class="third-slide img-responsive" src="imagenes/big/Visitas/ktm1-red.jpg" alt="Katmandú">
 					<div class="container">
 						<div class="carousel-caption">
-							<h1>CULTURA</h1>
-							<h2><a href="#" >Riqueza viva </a></h2>
+							<h1 class="titulo">CULTURA</h1>
+							<a class="cartel1" href="visitas.html" >Riqueza viva </a>
 						</div>
 					</div>
 				</div>
 			</div>
-			<a class="left carousel-control" href="#myCarousel" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Anterior</span> </a>
-			<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Siguiente</span> </a>
+			<!-- Controles de desplazamiento izquierda derecha -->
+			<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+			   <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+			   <span class="sr-only">Anterior</span>
+			</a>
+			<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"> 
+			   <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> 
+			   <span class="sr-only">Siguiente</span> 
+			</a>
 		</div><!-- /.carousel -->
 
-		<!-- Marketing messaging and featurettes
+		<!-- Información y noticias
 		================================================== -->
-		<!-- Wrap the rest of the page in another container to center all the content. -->
+		
 		<hr class="featurette-divider">
 
 		<div class="container marketing">
@@ -124,8 +131,8 @@
 				<div class="col-lg-4">
 					<img class="img-rounded img-responsive" src="imagenes/big/Island Peak/island_peak-trek 2.JPG" alt="Trekking Island Peak" width="330" height="240">
 					<h2>Trekking</h2>
-					<p>
-						Encuentra una amplia gama de trekkings para realizar. Todo dependerá de tu forma física y tus ganas.
+					<p class="lead">
+						Encuentra una amplia gama de trekking para realizar. <br /> Todo dependerá de tu forma física y tus ganas.
 					</p>
 					<p>
 						<a class="btn btn-default" href="treking.html" role="button">VER MÁS &raquo;</a>
@@ -134,17 +141,17 @@
 				<div class="col-lg-4">
 					<img class="img-rounded img-responsive" src="imagenes/big/Everest/Vistas Everest2.JPG" alt="Expedición Annapurna" width="330" height="240">
 					<h2>Expediciones</h2>
-					<p>
-						Una gran aventura. Todo un reto <br /> ¿Estas dispuesto a vivirlo...?
+					<p class="lead">
+						Una gran aventura. <br/> Una experiencia única. <br /> Todo un reto <br /> ¿Estas dispuesto a vivirlo...?
 					</p>
 					<p>
-						<a class="btn btn-default" href="#" role="button">VER MÁS &raquo;</a>
+						<a class="btn btn-default" href="expediciones.html" role="button">VER MÁS &raquo;</a>
 					</p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4">
 					<img class="img-rounded img-responsive" src="imagenes/big/Everest/Vistas Everest3.JPG" alt="Tu aventura" width="330" height="240">
 					<h2>Crea tu aventura</h2>
-					<p>
+					<p class="lead">
 						¿Quieres realizar una actividad pero ninguna se ajusta a lo que deseas?. Cuéntanos que quieres y te ayudamos.
 					</p>
 					<p>
@@ -159,7 +166,7 @@
 
 			<div class="row featurette">
 				<div class="col-md-7 col-md-push-5">
-					<h2 class="featurette-heading"><span class="text-primary">Próximas actividades ¡¡No las dejes escapar!!</span></h2>
+					<h2 class="featurette-heading"><span>Próximas actividades ¡¡No las dejes escapar!!</span></h2>
 					<p class="lead">
 						Aquí te informamos de las actividades que se realizarán pronto, para que si te interesa puedas apuntarte para completar el grupo y que te sea más económica.
 					</p>
@@ -182,17 +189,17 @@
         			<h2 class="featurette-heading">Síguenos en:</h2>
         		</div>
         		<div class="col-sm-1">
-        			<a href="https://www.facebook.com/De0a9000?fref=ts" target="_black">
+        			<a href="https://www.facebook.com/De0a9000?fref=ts" target="black">
         			   <img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
         			</a>
         		</div>
         		<div class="col-sm-1">
-        			<a href="#" target="_black">
+        			<a href="#" target="_blank">
         			   <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         			</a>
         		</div>
         		<div class="col-sm-1">
-        			<a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="_black">
+        			<a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="black">
         			   <img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
         			</a>
         		</div> 
@@ -208,7 +215,7 @@
 					<a href="#">Subir</a>
 				</p>
 				<p>
-					&copy; 2015 ATVSport. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>
+					&copy; 2015 ATVSport. &middot; <a href="contacto.html">Email: atvsport@grupoatv.com</a>
 				</p>
 			</footer>
 

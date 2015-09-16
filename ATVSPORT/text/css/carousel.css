@@ -60,7 +60,12 @@ body {
   min-width: 100%;
   height: 500px;
 }
-
+.carousel-inner > .item > .container > .carousel-caption > h2 > a:hover {
+	color: #180827;
+}
+.carousel-inner > .item > .container > .carousel-caption > h2 > a:active {
+	color:#A39CAB;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */

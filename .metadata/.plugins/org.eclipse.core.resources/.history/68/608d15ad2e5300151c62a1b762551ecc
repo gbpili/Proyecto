@@ -1,9 +1,0 @@
-body {
-	font-family: Verdana,Georgia,sans-serif;
-	background-color: #A39CAB;
-	color: #180827;
-ul.navbar {
-	font-size: larger;
-	
-}
-}

@@ -1,0 +1,17 @@
+body {
+
+	/*.dropdown-menu{
+		font-size:small;
+	}*/
+	
+	font-family: Verdana,Georgia,sans-serif;
+	background-color: #A39CAB;
+	color: #180827;
+}
+
+
+	a{color:#A39CAB; font-family:Verdana;}
+	
+	h1{
+		color: #2B1A3C;
+	}
