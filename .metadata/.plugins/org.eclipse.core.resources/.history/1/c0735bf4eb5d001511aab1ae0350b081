@@ -81,7 +81,7 @@
         	      </figure>
         	      
         		</div>
-        		<div class="col-md-1"></div>  <!--  VER COMO PONER QUE EMPIECE EN LA COLUMNA 2 PARA QUE NO PONGAMOS EL DIV VACIO-->
+        		<div class="col-md-1"></div>
         	        	
         		<div class="col-md-2">
         		  <h3>Duración</h3>
