@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico" />
 
-		<title>Trek Everest</title>
+		<title>Trek Langtang</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
@@ -38,7 +38,7 @@
 	<body>
 		<div>
 			<!-- FIXED NAVBAR -->
-		  <nav class="navbar navbar-default navbar-fixed-top">
+		  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 			<div class="container">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -51,9 +51,9 @@
 				 	  <img class="img-responsive" src="imagenes/sports.jpg" alt="ATV Sport">
 				 	</a>
 				</div>
-				<div id="navbar" class="navbar-collapse collapse pull-right">
+				<div id="navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li><a href="index.html">Inicio</a></li>
+						<li class="active"><a href="index.html">Inicio</a></li>
 						<li><a href="nosotros.html">Sobre nosotros</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
@@ -73,11 +73,12 @@
 		      
 		  <!-- Container -->    
 		  <div class="container">
-		  	<h1 align="center"> TREKKING CB EVEREST </h1> 	 
-			<div class="row">
+		  	<h1 align="center"> TREKKING LANGTANG VALLEY </h1> 	 
+			
+      		<div class="row">
         	    <div class="col-md-5">
         	      <figure>
-        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Cb-Everest/cb-everest1.JPG" alt="Trek CB Everest"/>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/langtang-valley-trek.jpg" alt="Trek Langtang Valley"/>
         	      </figure>
         	      
         		</div>
@@ -85,7 +86,7 @@
         	        	
         		<div class="col-md-2">
         		  <h3>Duración</h3>
-          			<h2><p><span class="label label-info">16 días</span></p></h2>
+          			<h2><p><span class="label label-info">11 días</span></p></h2>
           		</div>
         		<div class="col-md-2">
         		  <h3>Precio</h3>
@@ -93,14 +94,14 @@
            		</div>
            		<div class="col-md-2">
         		  <h3>Altitud Máxima</h3>
-          			<h2><p><span class="label label-info">5.550m</span></p></h2>
+          			<h2><p><span class="label label-info">4.900m</span></p></h2>
            		</div>
            		<div class="container">
            		  <div class="jumbotron">	<!-- Introduccion-->
-              		<p>El trekking al campo base del Everest es todo un reto y aventura, ya que ofrece una experiencia romántica y emocionante para los excursionistas. 
-              		   Ofrece unas vistas espectaculares de las montañas, así como una idea maravillosa de la forma de vida de los sherpas que trabajan duro.
-              		   Este trekking es considerado como uno de los trekking más interesantes en Nepal. Esto se debe a la estrecha visión del pico más alto del mundo "Monte Everest" 
-              		   y pintorescos pueblos con culturas únicas, festivales y grandes monasterios.
+              		<p> <br /> Te sugerimos un enfoque distinto de 11 días al corazón de Langtang Valley. Desde Langtang o Kyanjin Gompa hay varias alternativas a regresar. Es posible caminar de regreso a Dhunche en sólo 3 días, 
+              			porque gran parte de la ruta es cuesta abajo, pero si usted tiene habilidades básicas de montañismo (y hay buen tiempo), podemos cruzar Ganja La en el Helambu. 
+              			Una tercera alternativa es caminar de regreso a Syabru, después de cruzar a través Helambu Gosainkunda.
+              			<br />  <br />
 					</p>
 				    <a href="#">
 				      <button type="button" class="btn btn-info btn-block">Reservar</button> 
@@ -110,44 +111,39 @@
       		</div> <!-- row -->
 			
 			<article class="row">
-			
 			  <h2>ITINERARIO</h2> <br />
 			  <div class="col-md-6">
-			  	<p>Dia 01 : Llegada a Katmandú (KTM). Traslado al hotel. <br />
-				   Dia 02 : Preparativos en KTM. Compras de todo lo necesario para el viaje.<br />
-				   Dia 03 : Vuelo KTM - Lukla y trek hasta llegar a Phakding (2.640m). <br />
-				   Dia 04 : Trek Phakding - Namche Bazaar (3.440m. <br />
-				   Dia 05 : Trek Namche Bazaar. Aclimatación Khunde Ri (4.238m). <br />
-			  	   Dia 06 : Trek Namche Bazaar - Deboche (3.820m). <br />
-				   Dia 07 : Trek Deboche - Dingboche (4.410m). <br />
-				   Dia 08 : Dia en Dingboche. Aclimatación Khunde Ri (4.238m).  <br />
-				  		
+			  	<p>Dia 01 : Llegada a Katmandú (KTM). Traslado al hotel . <br />
+				   Dia 02 : Traslado a Syabrubesi en todoterreno (Jeep o similar) (1.550m). <br />
+				   Dia 03 : Trek Syabrubesi- Lama (2.380m). <br />
+				   Dia 04 : Trek Lama - Langtang. (3.500m). <br />
+				   Dia 05 : Trek Langtang - Kyanjin Gompa(3.795m). <br />
+			  	   Dia 06 : Trek Kyanjin Gompa - Cherko Ri (4.900m). Escalada y regreso a Kyanjin Gompa. <br />
+				   
 			  	</p>
 			  </div>
 			  <div class="col-md-6">
-			  	<p>Dia 09 : Trek Dingboche - Lobuche. <br />
-				   Dia 10 : Trek Lobuche - Gorak Shep (5.150m). <br />
-				   Dia 11 : Trek Gorak Shep - Kala Pattar (5.550m) - Campo Base Everest(5.400m). <br />
-				   Dia 12 : Trek Kala Pattar - Pangboche. <br />
-				   Dia 13 : Trek Pangbohe - Namche Bazaar. <br />
-				   Dia 14 : Trek Namche Bazaar - Lukla. <br />
-				   Dia 15 : Vuelo Lukla- KTM. <br />
-				   Dia 16 : Traslado a aeropuerto internacional y vuelo de regreso. <br />
+			  	<p>Dia 07 : Trek Kyanjin Gompa - Lama. <br />
+				   Dia 08 : Trek Lama - Syabrubesi. <br />
+				   Dia 09 : Traslado en vehículo desde Syabrubesi a KTM. <br />
+				   Dia 10 : Dia libre para visitar KTM o realizar compras. <br />
+				   Dia 11 : Traslado a aeropuerto internacional y vuelo de regreso. <br />
 			  	</p>
 			  </div>
-			</article>
+			</article>	  
 			<hr class="featurette-divider">
 			<hr class="featurette-divider">
 			<article class="row">
 			  <div class="col-md-7">
 			  	<h3>SERVICIOS INCLUIDOS</h3> <br /> 
-			  	<p>+ Permiso de trekking y entrada a Parque Nacional.<br />
+			  	<p>+ Visitas de lugares de interés con guía.<br />
+			  	   + Entrada a Parque Nacional Langtang. <br />	
 				   + Traslados entre el aeropuerto y Katmandú. <br />
-				   + Vuelos entre Katmandú y Lukla. <br />
+				   + Traslados en vehículo entre KTM y Syabrubesi . <br />
 				   + Alojamientos:<br />
-				     &nbsp; &nbsp;* Katmandú => Hotel Gangjong en habitación dobre durante 3 noches con desayuno. <br />
-				     &nbsp; &nbsp;* Trekking => Alojamiento en Lodge en régimen de pensión completa. 12 días. <br />
-				   + * 1 Guía local y porteadores de trekking, 1 porteador cada 2 personas (12,5 kg). <br />
+				     &nbsp; &nbsp;* Katmandú => Hotel Gangjong en habitación doble durante 3 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Trekking => Alojamiento en Lodge en régimen de pensión completa. 7 días. <br />
+				   + 1 Guía local y porteadores de trekking. <br />
 			   	</p>
 			  </div>
 			  <div class="col-md-5">
@@ -161,47 +157,44 @@
 				   
 			  	</p>
 			  </div>
-			</article>	  	   
+			</article>	  
+			 
 		    <hr class="featurette-divider">
 		 	 
-		   <!-- FOOTER -->
-			
-			<footer> 
-			   <div class="row featurette">
-       			   <div class="col-md-3">
-          			   <h2 class="featurette-heading">Asociado con:</h2>
-        		   </div>
-        		   <div class="col-md-3">
-        		 	   <img class="featurette-image img-responsive center-block" src="imagenes/associated.jpg" alt="Colaboradores">
-        		   </div>
-        		   <div class="col-md-3">
-        			   <h2 class="featurette-heading">Síguenos en:</h2>
-        		   </div>
-        		   <div class="col-sm-1">
-        			   <a href="https://www.facebook.com/De0a9000?fref=ts" target="black">
-        			      <img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
-        			   </a>
-        		   </div>
-        		   <div class="col-sm-1">
-        			   <a href="#" target="_blank">
-        			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
-        			   </a>
-        		   </div>
-        		   <div class="col-sm-1">
-        			   <a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="black">
-        			      <img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
-        		       </a>
-        		   </div> 
-      		   </div>
-      		
-			   <hr class="featurette-divider">
-
-      		   <p class="pull-right">
-				 <a href="#">Subir</a>
-			   </p>
-			   <p>
-			      &copy; 2015 ATVSport. &middot; <a href="contacto.html">Email: atvsport@grupoatv.com</a>
-			   </p>
+		    <!-- FOOTER -->
+			<footer>
+			  <div class="row featurette">
+       			<div class="col-md-3">
+          			<h2 class="featurette-heading">Asociado con:</h2>
+        		</div>
+        		<div class="col-md-3">
+         		 	<img class="featurette-image img-responsive center-block" src="imagenes/associated.jpg" alt="Colaboradores">
+        		</div>
+        		<div class="col-md-3">
+        			<h2 class="featurette-heading">Síguenos en:</h2>
+        		</div>
+        		<div class="col-sm-1">
+        			<a href="https://www.facebook.com/De0a9000?fref=ts" target="_black">
+        			   <img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
+        			</a>
+        		</div>
+        		<div class="col-sm-1">
+        			<a href="#" target="_black">
+        			   <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
+        			</a>
+        		</div>
+        		<div class="col-sm-1">
+        			<a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="_black">
+        			   <img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
+        			</a>
+        		</div> 
+      		  </div>
+			  <p class="pull-right">
+				<a href="#">Subir</a>
+			  </p>
+			  <p>
+				&copy; 2015 ATVSport. &middot; <a href="contacto.html">Email: atvsport@grupoatv.com</a>
+			  </p>
 			</footer>
 		</div><!-- /.container -->   
 	
