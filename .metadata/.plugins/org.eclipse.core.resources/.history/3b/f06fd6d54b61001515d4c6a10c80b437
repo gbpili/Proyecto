@@ -90,45 +90,44 @@
 		   	</div>
 		 </div>
 		 <div class="container">  	
-		   <form class="form-horizontal" action="http://127.0.0.1:8020/ATVSPORT/contacto.php" method="post" enctype="text/plain">  <!-- Formulario -->	
-		   <!-- <form class="form-horizontal" action="mailto:mpllaves@gmail.com" method="post" enctype="text/plain">  <!-- Formulario -->
+		   <form class="contacto" action="mailto:mpllaves@gmail.com" method="post" enctype="text/plain">  <!-- Formulario -->
 		   	 <h3> FORMULARIO</h3>
 		   	 <p>A través de este formulario puedes hacernos llegar tus consultas y dudas, así como indicarnos tu idea o deseo y poder confeccionarte una aventura a medida.</p>
 		   	 <div class="form-group required">
         		<label class="control-label col-xs-3">Nombre y Apellidos:</label>
         		<div class="col-xs-9">
-            		<input name="nombre" type="text" class="form-control" placeholder="Nombre y Apellidos">
+            		<input type="text" class="form-control" placeholder="Nombre y Apellidos">
         		</div>
     		</div>
 		   	 <div class="form-group required">
         		<label class="control-label col-xs-3">Email:</label>
         		<div class="col-xs-9">
-            		<input name="email" type="email" class="form-control" id="inputEmail" placeholder="Email">
+            		<input type="email" class="form-control" id="inputEmail" placeholder="Email">
         		</div>
         	</div>
-    		<div class="form-group required">
+    		<div class="form-group">
         		<label class="control-label col-xs-3" >Teléfono:</label>
         		<div class="col-xs-9">
-            		<input name="tfno" type="tel" class="form-control" placeholder="Telefono">
+            		<input type="tel" class="form-control" placeholder="Telefono">
         		</div>
     		</div>
     		<div class="form-group required">
         		<label class="control-label col-xs-3" >Asunto/Actividad:</label>
         		<div class="col-xs-9">
-            		<input name="asunto" type="text" class="form-control" placeholder="Actividad">
+            		<input type="text" class="form-control" placeholder="Actividad">
         		</div>
     		</div>
-    		<div class="form-group required">
+    		<div class="form-group">
         		<label class="control-label col-xs-3">Mensaje:</label>
         			<div class="col-xs-9">
-            		<textarea name="mensaje" class="form-control" placeholder="Mensaje" rows="3" cols="20"></textarea>
+            		<textarea class="form-control" placeholder="Mensaje" rows="3" cols="20"></textarea>
         			</div>
     		</div>
     		<br>
     		<div class="form-group">
         		<div class="col-xs-offset-3 col-xs-9">
-            		<input name="envio" type="submit" class="btn btn-primary" value="Enviar">
-            		<input name="limpio" type="reset" class="btn btn-default" value="Limpiar">
+            		<input type="submit" class="btn btn-primary" value="Enviar">
+            		<input type="reset" class="btn btn-default" value="Limpiar">
         		</div>
     		</div>
 		</form>
