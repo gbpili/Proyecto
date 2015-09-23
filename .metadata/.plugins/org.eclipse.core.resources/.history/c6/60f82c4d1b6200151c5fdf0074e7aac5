@@ -135,7 +135,6 @@
             		<input name="limpio" type="reset" class="btn btn-default" value="Limpiar">
         		</div>
     		</div>
-    		
 		</form>
 		
 		 <hr class="featurette-divider">

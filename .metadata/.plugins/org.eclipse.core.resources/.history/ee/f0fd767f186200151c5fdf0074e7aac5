@@ -90,19 +90,17 @@
 		   	</div>
 		 </div>
 		 <div class="container">  	
-		   <form class="form-horizontal" action="http://127.0.0.1:8020/ATVSPORT/contacto.php" method="post" enctype="text/plain">  <!--Formulario -->
-		   	  <input type="hidden" name="recipients" value="mpllaves@gmail.com" />
-		   	  <input type="hidden" name="required" value="nombre:<?php echo $errors[1] ?>,email,tfno,asunto,mensaje" />	
-		
-		   	  <h3> FORMULARIO</h3>
-		   	  <p>A través de este formulario puedes hacernos llegar tus consultas y dudas, así como indicarnos tu idea o deseo y poder confeccionarte una aventura a medida.</p>
-		   	  <div class="form-group required">
-        		 <label class="control-label col-xs-3">Nombre y Apellidos:</label>
-        		 <div class="col-xs-9">
-            	 	<input name="nombre" type="text" class="form-control" placeholder="Nombre y Apellidos">
+		   <form class="form-horizontal" action="http://127.0.0.1:8020/ATVSPORT/contacto.php" method="post" enctype="text/plain">  <!-- Formulario -->	
+		   <!-- <form class="form-horizontal" action="mailto:mpllaves@gmail.com" method="post" enctype="text/plain">  <!-- Formulario -->
+		   	 <h3> FORMULARIO</h3>
+		   	 <p>A través de este formulario puedes hacernos llegar tus consultas y dudas, así como indicarnos tu idea o deseo y poder confeccionarte una aventura a medida.</p>
+		   	 <div class="form-group required">
+        		<label class="control-label col-xs-3">Nombre y Apellidos:</label>
+        		<div class="col-xs-9">
+            		<input name="nombre" type="text" class="form-control" placeholder="Nombre y Apellidos">
             		
-        		 </div>
-    		 </div>
+        		</div>
+    		</div>
 		   	 <div class="form-group required">
         		<label class="control-label col-xs-3">Email:</label>
         		<div class="col-xs-9">
@@ -135,7 +133,6 @@
             		<input name="limpio" type="reset" class="btn btn-default" value="Limpiar">
         		</div>
     		</div>
-    		
 		</form>
 		
 		 <hr class="featurette-divider">

@@ -1,6 +1,5 @@
 <?php
     if(isset($_POST['envio'])){
-    	//$errors = array();
     	if($_POST['nombre'] == ""){
     		$errors[1] = '<span class="error">Introduzca su nombre y apellidos</span>';
     	}else if($_POST['email'] == "" or !preg_match("/^[a-zA-Z0-9_\.\-]+@[a-zA-Z0-9\-]+\.[a-zA-Z0-9\-\.]+$/",$_POST['email'])) {
