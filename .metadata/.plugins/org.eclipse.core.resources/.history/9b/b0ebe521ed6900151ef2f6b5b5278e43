@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+		<meta name="description" content="" />
+		<meta name="author" content="Mª Pilar Llaves" />
+
+		<link rel="icon" href="../../favicon.ico" />
+
+		<title>Tour Chitwan</title>
+
+		<!-- Bootstrap core CSS -->
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
+		
+		<link rel="stylesheet" href="text/css/carousel.css" />
+		<link rel="stylesheet" href="text/css/navbar-fixed-top.css" />
+		<link rel="stylesheet" href="text/css/jumbotron.css" />
+		<link rel="stylesheet" href="text/css/estilo.css" />
+		
+		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+		<script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<script src="bower_components/jQuery/dist/jquery.min.js"></script>
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+	</head>
+
+	<body>
+		<div>
+			<!-- FIXED NAVBAR -->
+		  <nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">ATVSport</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a href="index.html" target="_blank">
+				 	  <img class="img-responsive" src="imagenes/sports.jpg" alt="ATV Sport">
+				 	</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="index.html">Inicio</a></li>
+						<li><a href="nosotros.html">Sobre nosotros</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="expediciones.html">Expediciones</a></li>
+								<li><a href="treking.html">Trekking</a></li>
+								<li><a href="visitas.html">Visitas culturales</a></li>
+							</ul>
+						</li>
+						
+						<li><a href="galeria.html">Galeria</a></li>
+						<li><a href="contacto.html">Contacto</a></li>
+					</ul>
+				</div><!--/.nav-collapse -->
+			</div>
+		  </nav>
+		      
+		  <!-- Container -->    
+		  <div class="container">
+		  	<h1 class="titulo"> PAQUETE TOUR CHITWAN </h1> 	 
+			
+      		<div class="row">
+        	    <div class="col-md-5">
+        	      <figure>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/chitwan3.jpg" alt="Tour Chitwan"/>
+        	      </figure>
+        	      
+        		</div>
+        		<div class="col-md-1"></div>
+        	        	
+        		<div class="col-md-3">
+        		  <h3>Duración</h3>
+          			<h2><p><span class="label label-info">11 días</span></p></h2>
+          		</div>
+        		<div class="col-md-3">
+        		  <h3>Precio</h3>
+          			<h2><p><span class="label label-info">Consultar</span></p></h2>
+           		</div>
+           		
+           		<div class="container">
+           		  <div class="jumbotron">	<!-- Introduccion-->
+              		<p>La visita de Katmandú-Chitwan-Lumbini-Pokhara ofrece la oportunidad de poder explorar los tesoros culturales, con excursiones a los diferentes paisajes de Shivapuri. <br />
+              		   Además también podrás disfrutar no sólo de cultura, sino de naturaleza en vivo visitando el Parque Nacional de Chitwan, primer parque nacional de Nepal y declarado Patrimonio de la Humanidad por la UNESCO en 1984.  <br /> <br />
+					</p>
+				    <a href="#">
+				      <button type="button" class="btn btn-info btn-block">Reservar</button> 
+				    </a>
+           		  </div>  <!-- jumbotron -->
+           		</div> <!-- container -->
+      		</div> <!-- row -->
+			
+			<article class="row">
+			  <h2>ITINERARIO</h2> <br />
+			   <div class="col-md-6">
+			  	<p>Dia 01 : Llegada a Katmandú (KTM). Traslado al hotel . <br />
+				   Dia 02 : Día completo de excursiones en Swoyambhunath, Boudhanath, Pashupatinath, Plaza Durbar de KTM. <br />
+				   Dia 03 : Traslado de KTM al Parque Nacional de Chitwan. <br />
+				   Dia 04 : Actividades en la selva (Parque Nacional de Chitwan). <br />
+				   Dia 05 : Traslado a Lumbini en vehículo privado. Mediodía de visitas guiadas en Lumbini. <br />
+				   Dia 06 : Traslado a Pokhara en vehículo privado. <br />
+			  	   			   
+			  	</p>
+			  </div>
+			  <div class="col-md-6">
+			  	<p>
+			  	   Dia 07 : Día completo para recorrido turístico por Pokhara. <br />
+			  	   Dia 08 : Por la mañana temprano traslado en coche a Sarangkot para ver amanecer con vistas a la montaña. <br />
+				   Dia 09 : Traslado en vehículo privado de Pokhara a KTM. <br />
+				   Dia 10 : Visita por la mañana temprano del área del monte Everest en avioneta. Tarde libre en KTM. <br />
+			  	   Dia 11 : Traslado a aeropuerto internacional y vuelo de regreso. <br /> 
+				   
+			  	</p>
+			  </div>
+			</article>	  
+			<hr class="featurette-divider">
+			<hr class="featurette-divider">
+			<article class="row">
+			  <div class="col-md-7">
+			  	<h3>SERVICIOS INCLUIDOS</h3> <br /> 
+			  	<p>+ Entradas a monumentos y traslados entre visitas y ciudades. <br />
+			  	   + Traslados entre el aeropuerto y Katmandú. <br />
+				   + Vuelos o traslados en vehículo entre Katmandú, Pokhara, Chitwan y Lumbini. <br />
+				   + Alojamientos:<br />
+				     &nbsp; &nbsp;* Katmandú => Hotel Gangjong en habitación doble durante 4 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Pokhara => Hotel en habitación doble durante 3 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Chitwan => Hotel en habitación doble durante 2 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Lumbini => Hotel en habitación doble durante 1 noche con desayuno. <br />  
+				   + Staff: Guía local. <br />
+				</p>
+			  </div>
+			  <div class="col-md-5">
+			    <h3>SERVICIOS NO INCLUIDOS</h3> <br />
+			  	<p>+ Costes extras por variaciones del programa previsto. <br />
+				   + Seguro de viaje personal. <br />
+				   + Comidas no especificadas y extras durante estancias, así como almuerzos y cenas en ciudades. <br />
+				   + Gastos personales / Facturas de bar. <br />
+				   + Propinas para el personal. <br />
+				   + Seguros de cancelación. <br />
+				   
+			  	</p>
+			  </div>
+			</article>	  
+			 
+		    <hr class="featurette-divider">
+		 	 
+		    <!-- FOOTER -->
+			<footer>
+			  <div class="row featurette">
+       			<div class="col-md-3">
+          			<h2 class="featurette-heading">Asociado con:</h2>
+        		</div>
+        		<div class="col-md-3">
+         		 	<img class="featurette-image img-responsive center-block" src="imagenes/associated.jpg" alt="Colaboradores">
+        		</div>
+        		<div class="col-md-3">
+        			<h2 class="featurette-heading">Síguenos en:</h2>
+        		</div>
+        		<div class="col-sm-1">
+        			<img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
+        		</div>
+        		<div class="col-sm-1">
+        			<img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
+        		</div>
+        		<div class="col-sm-1">
+        			<img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
+        		</div> 
+      		  </div>
+			  <p class="pull-right">
+				<a href="#">Subir</a>
+			  </p>
+			  <p>
+				&copy; 2015 ATVSport. &middot; <a href="contacto.html">Email: atvsport@grupoatv.com</a>
+			  </p>
+			</footer>
+		</div><!-- /.container -->   
+	
+	  </div>
+		<!-- Bootstrap core JavaScript
+		================================================== -->
+		<!-- Placed at the end of the document so the pages load faster -->
+		<script src="bower_components/jQuery/dist/jquery.min.js"></script>
+		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+		<script src="bower_components/bootstrap3-ie10-viewport-bug-workaround/ie10-viewport-bug-workaround.js"></script>
+	</body>
+</html>

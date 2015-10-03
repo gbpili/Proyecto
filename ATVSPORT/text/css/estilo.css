@@ -6,17 +6,21 @@ body {
 	background-color: #A39CAB;
 	color: #180827;
 }
-h1.titulo, a.cartel1{
+h1.titulo, a.cartel1{ /* pagina index */
+	text-align: center;
 	color: #A39CAB; 
 	font-family:Verdana; 
 	font-size:4em
+	/*text-align: center;*/
 }
 a:link, a:visited{
 	color: #180827
 }
-h1{
+h1.titulo2, h2.titulo2{
+	text-align: center;
 	color: #2B1A3C;
 }
+
 	
 html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li a { padding: 30px 15px 30px 15px }
 
