@@ -7898,3 +7898,27 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY com.aptana.git.core 4 0 2015-10-04 13:03:17.964
 !MESSAGE (Build 3.6.1.201410201044) [ERROR] com.aptana.git.core/debug Failed to stage files: Failed to acquire write lock for repo. Another process is still writing.
+!SESSION 2015-10-05 17:48:30.248 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.aptana.git.core 4 1 2015-10-05 20:14:37.776
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.git.core 4 0 2015-10-05 20:14:37.776
+!MESSAGE Failed to acquire lock for git repository.
+!SUBENTRY 1 com.aptana.git.core 4 0 2015-10-05 20:14:37.776
+!MESSAGE Failed to acquire lock for git repository.
+!SUBENTRY 1 com.aptana.git.core 4 0 2015-10-05 20:14:37.776
+!MESSAGE Failed to acquire lock for git repository.
+
+!ENTRY com.aptana.git.core 4 1 2015-10-05 20:41:59.481
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.git.core 4 0 2015-10-05 20:41:59.481
+!MESSAGE Failed to acquire lock for git repository.
+!SUBENTRY 1 com.aptana.git.core 4 0 2015-10-05 20:41:59.481
+!MESSAGE Failed to acquire lock for git repository.
+!SUBENTRY 1 com.aptana.git.core 4 0 2015-10-05 20:41:59.481
+!MESSAGE Failed to acquire lock for git repository.

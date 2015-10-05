@@ -19,6 +19,8 @@ a:link, a:visited{
 h1.titulo2, h2.titulo2{
 	text-align: center;
 	color: #2B1A3C;
+	margin-top: 50px;
+	
 }
 
 	
@@ -26,7 +28,9 @@ html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.na
 
 html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li a { padding: 15px }
 
-
+nav.navbar.navbar-default.navbar-fixed-top{
+	margin-bottom: 0px;
+}
 
 @media (min-width: 768px) and (max-width: 979px) { 
 
