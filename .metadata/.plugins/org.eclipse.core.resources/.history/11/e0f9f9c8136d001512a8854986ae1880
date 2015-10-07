@@ -71,14 +71,6 @@ nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-colla
 nav.navbar.navbar-default.navbar-fixed-top{
 	margin-bottom: 0px;
 }
-/*ESTE NO FUNCIONA TODAVIA */
 nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav > .active{
 	background-color: red;
 }
-
-/* Para dispositivos pequeños (tablets,768px y hacia rriba) PONER COMPORTAMIENTO */
-@media (min-width: @screen-sm-min) { ... }
-
-/* Para dispositivos medios  992px*/
-
-/* Para dispositivos grandes  1200px y hacia arriba)*/

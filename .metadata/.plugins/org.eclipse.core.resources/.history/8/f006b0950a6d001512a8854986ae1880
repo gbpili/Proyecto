@@ -77,7 +77,7 @@
 		        	Su amplia experiencia sobre el terreno es lo que hace que nuestros clientes salgan satisfechos con sus actividades y vuelvan a confiar en nosotros. <br /> <br />
 		        	Somos una empresa profesional , con licencia en montañismo y trekking. Desde nuestro personal en oficina hasta el equipo de montaña tienen muchos años de experiencia en este sector, y lo demuestran por el cariño e interés que ponen en cada actividad. <br /> <br />
 		        	Subimos montañas porque nos resulta divertido, desafiante y amamos la naturaleza, y nos encanta compartir esas sensaciones con nuestros clientes. A lo largo de estos años, hemos trabajado con cientos de clientes, realizando un sinfín de actividades distintas, disfrutando siempre con ellos de lo que más nos gusta.
-		        	Póngase en contacto con nosotros. 	<br />	<br />        	¡QUEREMOS SER TU EQUIPO!
+		        	Póngase en contacto con nosotros. 	<br />	<br />        	¡QUEREMOS SER SU EQUIPO!
 		        	
 		        </p>
 		   </div>
@@ -88,26 +88,26 @@
 			
 			<footer> 
 			   <div class="row featurette">
-       			   <div class="col-sm-6 col-md-3">
+       			   <div class="col-md-3">
           			   <h2 class="featurette-heading">Asociado con:</h2>
         		   </div>
-        		   <div class="col-sm-6 col-md-3">
+        		   <div class="col-md-3">
         		 	   <img class="featurette-image img-responsive center-block" src="imagenes/associated.jpg" alt="Colaboradores">
         		   </div>
-        		   <div class="col-sm-3 col-md-3">
+        		   <div class="col-md-3">
         			   <h2 class="featurette-heading">Síguenos en:</h2>
         		   </div>
-        		   <div class="col-xs-4 col-sm-3 col-md-1">
+        		   <div class="col-sm-1">
         			   <a href="https://www.facebook.com/De0a9000?fref=ts" target="blank">
         			      <img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
         			   </a>
         		   </div>
-        		   <div class="col-xs-4 col-sm-3 col-md-1">
+        		   <div class="col-sm-1">
         			   <a href="#" target="_blank">
         			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         			   </a>
         		   </div>
-        		   <div class="col-xs-4 col-sm-3 col-md-1">
+        		   <div class="col-sm-1">
         			   <a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="blank">
         			      <img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
         		       </a>
