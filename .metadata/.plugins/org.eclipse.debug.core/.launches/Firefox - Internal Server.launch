@@ -3,7 +3,7 @@
 <booleanAttribute key="advancedRunEnabled" value="false"/>
 <booleanAttribute key="appendProjectName" value="true"/>
 <stringAttribute key="browserCmdLine" value=""/>
-<stringAttribute key="browserExecutable" value="C:\Program Files (x86)\Mozilla Firefox\firefox.exe"/>
+<stringAttribute key="browserExecutable" value="/Applications/Firefox.app"/>
 <stringAttribute key="browserNature" value="Firefox"/>
 <stringAttribute key="externalBaseUrl" value=""/>
 <stringAttribute key="httpGetData" value=""/>
