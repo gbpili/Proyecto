@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico" />
 
-		<title>Cultural</title>
+		<title>Tour Sirubari</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
@@ -36,7 +36,7 @@
 	</head>
 
 	<body>
-		
+
 			<!-- FIXED NAVBAR -->
 		  <nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
@@ -60,7 +60,7 @@
 							<ul class="dropdown-menu">
 								<li><a href="expediciones.html">Expediciones</a></li>
 								<li><a href="treking.html">Trekking</a></li>
-								<li class="active"><a href="visitas.html">Visitas culturales</a></li>
+								<li><a href="visitas.html">Visitas culturales</a></li>
 							</ul>
 						</li>
 						
@@ -70,62 +70,83 @@
 				</div><!--/.nav-collapse -->
 			</div>
 		  </nav>
-		      <!-- Main jumbotron for a primary marketing message or call to action -->
-   		  <div class="jumbotron">
-      		  <div class="container">
-        		  <h1 class="titulo3">VISITAS CULTURALES</h1>
-        			 <p>A continuación encontrarás unas fantásticas actividades culturales para realizar en Nepal</p>
-        	  </div>
-    	  </div>
-
-		  <div class="container marketing">
-      		
-      		  <div class="row">
-        	    <div class="col-md-4 col-sm-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini.jpg" alt="Tour Lumbini"/>
-          		   <h2>Tour Lumbini </h2>
-          		    <p>Descubre Lumbini, una ciudad que te sorprenderá. </p>
-          			<p><a class="btn btn-default" href="lumbini.html" role="button">VER MÁS &raquo;</a></p>
+		      
+		  <!-- Container -->    
+		  <div class="container">
+		  	<h1 class="titulo2"> TOUR POKHARA - SIRUBARI </h1> 	 
+			
+      		<div class="row-act">
+        	    <div class="col-md-5">
+        	      <figure>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/sirubari4.jpg" alt="Tour Sirubari"/>
+        	      </figure>
+        	      
         		</div>
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/ktm.jpg" alt="Kathmandu"/>
-         		   <h2>Katmandú Cultural</h2>
-          			<p>Visita los lugares más emblemáticos de Katmandú. </p>
-          			<p><a class="btn btn-default" href="kathmandu.html" role="button">VER MÁS &raquo;</a></p>
-       			</div>
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/chitwan.jpg" alt="Tour Chitwan"/>
-          		   <h2>Paquete Tour Chitwan</h2>
-          			<p>Tour para descubrir los tesoros de Nepal.</p>
-          			<p><a class="btn btn-default" href="chitwan.html" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-      		  </div>
-		
-			  <div class="row">
-			  	<div class="col-md-4 col-sm-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/sirubari1.jpg" alt="Tour Sirubari"/>
-          		   <h2>Tour Pokhara - Sirubari </h2>
-          		    <p>Visita la misteriosa Pokhara y la aún virgen Sirubari.</p>
-          			<p><a class="btn btn-default" href="sirubari.html" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-        	    
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/tour-montayselva2.jpg" alt="Tour Selva"/>
-         		   <h2>Tour Montaña y Selva</h2>
-          			<p>Un completo tour para disdrutar al máximo. </p>
-          			<p><a class="btn btn-default" href="tour-montayselva.html" role="button">VER MÁS &raquo;</a></p>
-       			</div>
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lhasa3.jpg" alt="Tour Lhasa"/>
-          		   <h2>Tour Lhasa</h2>
-          			<p>Visita una de las ciudades más bonitas del Tibet. </p>
-          			<p><a class="btn btn-default" href="lhasa.html" role="button">VER MÁS &raquo;</a></p>
-        		</div>
-      		  </div>
-		   
-		     <hr class="featurette-divider">
-		     
-		<!-- FOOTER -->
+        		<div class="col-md-offset-1 col-md-3">
+        		  <h3>Duración</h3>
+          			<h2><span class="label label-info">8 días</span></h2>
+          		</div>
+        		<div class="col-md-3">
+        		  <h3>Precio</h3>
+          			<h2><span class="label label-info">Consultar</span></h2>
+           		</div>
+           		
+           		<div class="container">
+           		  <div class="jumbotron">	<!-- Introduccion-->
+              		<p>Vamos a conducir este viaje hacia una de las ciudades más misteriosas de Nepal, Pokhara. Vistas fascinantes de Pokhara, como la combinación de picos nevados y los lagos y ríos alimentados por esta nieve que contribuye a que el valle de Pokhara sea uno de los más pintorescos atractivos naturales. <br /> 
+              			El pueblo de Sirubari es un asentamiento Gurung totalmente virgen en las colinas a 1700 metros sobre el nivel del mar. <br />
+              			Este programa está especialmente diseñado para conocer a los lugareños y su cultura. <br />
+					</p>
+				    <button type="button" class="btn btn-info btn-block" onclick="location.href='contacto.html'">Reservar</button> 
+				  
+           		  </div>  <!-- jumbotron -->
+           		</div> <!-- container -->
+      		</div> <!-- row -->
+			
+			<article class="row">
+			  <h2 class="titulo2">ITINERARIO</h2> <br />
+			
+			  	<p>Dia 01 : Llegada a Katmandú (KTM). Traslado al hotel. <br />
+				   Dia 02 : Día completo de excursiones en Swoyambhunath, Boudhanath, Pashupatinath, Plaza Durbar de KTM. <br />
+				   Dia 03 : Vuelo o viaje en bus desde KTM a Pokhara y visita en Pokhara. <br />
+				   Dia 04 : Por la mañana temprano Pokhara traslado en bus a Sarangkot y Sirubari a través de Badkhola, Darau. <br />
+				   Dia 05 : Vistas de la salida del sol y la montaña en Thumro y ceremonia de despedida en Gompa. <br />
+				   Dia 06 : Traslado de Sirubari a Pokhara en bus,y vuelo de vuelta a KTM. <br />
+				   Dia 07 : Visita por la mañana temprano del área del monte Everest en avioneta. Tarde libre en KTM. <br />
+			  	   Dia 08 : Traslado a aeropuerto internacional y vuelo de regreso. <br /> 
+				   
+			  	</p>
+			</article>	  
+			<hr class="featurette-divider">
+			<hr class="featurette-divider">
+			<article class="row">
+			  <div class="col-md-7">
+			  	<h3>SERVICIOS INCLUIDOS</h3> <br /> 
+			  	<p>+ Traslados entre el aeropuerto y Katmandú. <br />
+				   + Vuelos o traslados en vehículo entre Katmandú, Pokhara y Sirubari. <br />
+				   + Alojamientos:<br />
+				     &nbsp; &nbsp;* Katmandú => Hotel Gangjong en habitación doble durante 4 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Pokhara => Hotel en habitación doble durante 1 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Sirubari => Hotel en habitación doble durante 2 noches con desayuno. <br />
+				   + Staff: Guía local. <br />
+				 
+			   	</p>
+			  </div>
+			  <div class="col-md-5">
+			    <h3>SERVICIOS NO INCLUIDOS</h3> <br />
+			  	<p>+ Costes extras por variaciones del programa previsto. <br />
+			  	   + Seguro de viaje personal. <br />
+				   + Comidas no especificadas y extras durante estancias, así como almuerzos y cenas en ciudades. <br />
+				   + Propinas para el personal. <br />
+				   + Seguros de cancelación. <br />
+				   
+			  	</p>
+			  </div>
+			</article>	  
+			 
+		    <hr class="featurette-divider">
+		 	 
+		    <!-- FOOTER -->
 			
 			<footer> 
 			   <div class="row featurette">

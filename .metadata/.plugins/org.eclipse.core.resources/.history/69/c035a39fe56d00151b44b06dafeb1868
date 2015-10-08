@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico" />
 
-		<title>Cultural</title>
+		<title>Actividades Expediciones</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
@@ -34,7 +34,6 @@
 		<![endif]-->
 
 	</head>
-
 	<body>
 		
 			<!-- FIXED NAVBAR -->
@@ -58,9 +57,9 @@
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
 							<ul class="dropdown-menu">
-								<li><a href="expediciones.html">Expediciones</a></li>
+								<li class="active"><a href="expediciones.html">Expediciones</a></li>
 								<li><a href="treking.html">Trekking</a></li>
-								<li class="active"><a href="visitas.html">Visitas culturales</a></li>
+								<li><a href="visitas.html">Visitas culturales</a></li>
 							</ul>
 						</li>
 						
@@ -73,53 +72,52 @@
 		      <!-- Main jumbotron for a primary marketing message or call to action -->
    		  <div class="jumbotron">
       		  <div class="container">
-        		  <h1 class="titulo3">VISITAS CULTURALES</h1>
-        			 <p>A continuación encontrarás unas fantásticas actividades culturales para realizar en Nepal</p>
+        		  <h1 class="titulo3">EXPEDICIONES</h1>
+        			 <p>A continuación encontrarás las expediciones más interesantes de las que puedes disfrutar.</p>
         	  </div>
     	  </div>
 
 		  <div class="container marketing">
       		
       		  <div class="row">
-        	    <div class="col-md-4 col-sm-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini.jpg" alt="Tour Lumbini"/>
-          		   <h2>Tour Lumbini </h2>
-          		    <p>Descubre Lumbini, una ciudad que te sorprenderá. </p>
-          			<p><a class="btn btn-default" href="lumbini.html" role="button">VER MÁS &raquo;</a></p>
+        	    <div class="col-md-4">
+        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Everest/grieta3.jpeg" alt="Expedición Everest"/>
+          		   <h3>Expedición Everest </h3>
+          		    <p>Atrévete a intentar escalar la montaña más alta del mundo. </p>
+          			<p><a class="btn btn-default" href="exp-everest.html" role="button">VER MÁS &raquo;</a></p>
         		</div>
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/ktm.jpg" alt="Kathmandu"/>
-         		   <h2>Katmandú Cultural</h2>
-          			<p>Visita los lugares más emblemáticos de Katmandú. </p>
-          			<p><a class="btn btn-default" href="kathmandu.html" role="button">VER MÁS &raquo;</a></p>
+        		<div class="col-md-4">
+        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Makalu/makalu-exp.jpg" alt="Expedición Makalu"/>
+         		   <h3>Expedición Makalu</h3>
+          			<p>La quinta montaña más alta del mundo situada muy cerca del Everest. </p>
+          			<p><a class="btn btn-default" href="exp-makalu.html" role="button">VER MÁS &raquo;</a></p>
        			</div>
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/chitwan.jpg" alt="Tour Chitwan"/>
-          		   <h2>Paquete Tour Chitwan</h2>
-          			<p>Tour para descubrir los tesoros de Nepal.</p>
-          			<p><a class="btn btn-default" href="chitwan.html" role="button">VER MÁS &raquo;</a></p>
+        		<div class="col-md-4">
+        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Manaslu/manaslu-exp.JPG" alt="Expedición Manaslu"/>
+          		   <h3>Expedición Manaslu</h3>
+          			<p>Uno de los más majestuosos picos de Nepal que tiene que visitar.</p>
+          			<p><a class="btn btn-default" href="exp-manaslu.html" role="button">VER MÁS &raquo;</a></p>
         		</div>
       		  </div>
 		
 			  <div class="row">
-			  	<div class="col-md-4 col-sm-4">
-        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/sirubari1.jpg" alt="Tour Sirubari"/>
-          		   <h2>Tour Pokhara - Sirubari </h2>
-          		    <p>Visita la misteriosa Pokhara y la aún virgen Sirubari.</p>
-          			<p><a class="btn btn-default" href="sirubari.html" role="button">VER MÁS &raquo;</a></p>
+        	    <div class="col-md-4">
+        	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Annapurna/annapurna-exp1.JPG" alt="Expedición Annapurna"/>
+          		   <h3>Expedición Annapurna </h3>
+          		    <p>Un pico impresionante que se encuentra en la zona occidental de Nepal. </p>
+          			<p><a class="btn btn-default" href="exp-annapurna.html" role="button">VER MÁS &raquo;</a></p>
         		</div>
-        	    
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/tour-montayselva2.jpg" alt="Tour Selva"/>
-         		   <h2>Tour Montaña y Selva</h2>
-          			<p>Un completo tour para disdrutar al máximo. </p>
-          			<p><a class="btn btn-default" href="tour-montayselva.html" role="button">VER MÁS &raquo;</a></p>
+        		<div class="col-md-4">
+        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Lhotse/lhotse-exp.JPG" alt="Expedición Lhotse"/>
+         		   <h3>Expedición Lhotse</h3>
+          			<p>A la sombra del Everest se encuentra esta espectacular montaña. </p>
+          			<p><a class="btn btn-default" href="exp-lhotse.html" role="button">VER MÁS &raquo;</a></p>
        			</div>
-        		<div class="col-md-4 col-sm-4">
-        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lhasa3.jpg" alt="Tour Lhasa"/>
-          		   <h2>Tour Lhasa</h2>
-          			<p>Visita una de las ciudades más bonitas del Tibet. </p>
-          			<p><a class="btn btn-default" href="lhasa.html" role="button">VER MÁS &raquo;</a></p>
+        		<div class="col-md-4">
+        		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Ama-Dablam/amadablam-exp.JPG" alt="Expedición Ama-Dablam"/>
+          		   <h3>Expedición Ama-Dablam</h3>
+          			<p>Ama-Dablam es conocida por su increible belleza, venga a descubrirla. </p>
+          			<p><a class="btn btn-default" href="exp-amadablam.html" role="button">VER MÁS &raquo;</a></p>
         		</div>
       		  </div>
 		   
@@ -166,7 +164,8 @@
 			</footer>
 		
 	    </div> <!-- container -->
-	    
+	 
+	 
 		<!-- Bootstrap core JavaScript
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->

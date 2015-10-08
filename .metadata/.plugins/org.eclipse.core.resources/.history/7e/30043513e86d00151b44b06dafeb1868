@@ -81,19 +81,19 @@
 		  <div class="container marketing">
       		
       		  <div class="row">
-        	    <div class="col-md-4 col-sm-4">
+        	    <div class="col-md-4">
         	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lumbini.jpg" alt="Tour Lumbini"/>
           		   <h2>Tour Lumbini </h2>
           		    <p>Descubre Lumbini, una ciudad que te sorprenderá. </p>
           			<p><a class="btn btn-default" href="lumbini.html" role="button">VER MÁS &raquo;</a></p>
         		</div>
-        		<div class="col-md-4 col-sm-4">
+        		<div class="col-md-4">
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/ktm.jpg" alt="Kathmandu"/>
          		   <h2>Katmandú Cultural</h2>
           			<p>Visita los lugares más emblemáticos de Katmandú. </p>
           			<p><a class="btn btn-default" href="kathmandu.html" role="button">VER MÁS &raquo;</a></p>
        			</div>
-        		<div class="col-md-4 col-sm-4">
+        		<div class="col-md-4">
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/chitwan.jpg" alt="Tour Chitwan"/>
           		   <h2>Paquete Tour Chitwan</h2>
           			<p>Tour para descubrir los tesoros de Nepal.</p>
@@ -102,20 +102,20 @@
       		  </div>
 		
 			  <div class="row">
-			  	<div class="col-md-4 col-sm-4">
+			  	<div class="col-md-4">
         	      <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/sirubari1.jpg" alt="Tour Sirubari"/>
           		   <h2>Tour Pokhara - Sirubari </h2>
           		    <p>Visita la misteriosa Pokhara y la aún virgen Sirubari.</p>
           			<p><a class="btn btn-default" href="sirubari.html" role="button">VER MÁS &raquo;</a></p>
         		</div>
         	    
-        		<div class="col-md-4 col-sm-4">
+        		<div class="col-md-4">
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/tour-montayselva2.jpg" alt="Tour Selva"/>
          		   <h2>Tour Montaña y Selva</h2>
           			<p>Un completo tour para disdrutar al máximo. </p>
           			<p><a class="btn btn-default" href="tour-montayselva.html" role="button">VER MÁS &raquo;</a></p>
        			</div>
-        		<div class="col-md-4 col-sm-4">
+        		<div class="col-md-4">
         		  <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Visitas/lhasa3.jpg" alt="Tour Lhasa"/>
           		   <h2>Tour Lhasa</h2>
           			<p>Visita una de las ciudades más bonitas del Tibet. </p>
