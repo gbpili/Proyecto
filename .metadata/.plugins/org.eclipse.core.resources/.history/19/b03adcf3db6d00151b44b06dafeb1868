@@ -72,7 +72,6 @@ button.btn.btn-info.btn-block{
 
 
 html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li:hover{
-	display: block;
 	position: relative;
 }
 

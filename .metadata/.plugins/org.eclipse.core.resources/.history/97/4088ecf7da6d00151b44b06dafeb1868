@@ -70,13 +70,6 @@ button.btn.btn-info.btn-block{
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
 }
 
-
-html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li:hover{
-	display: block;
-	position: relative;
-}
-
-
 /* Barra navegación --  Margen inferior*/	
 
 .navbar.navbar-default.navbar-fixed-top{
