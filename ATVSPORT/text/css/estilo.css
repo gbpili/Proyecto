@@ -70,11 +70,11 @@ button.btn.btn-info.btn-block{
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
 }
 
-
+/*  PARA MENU DESPLEGABLE, NO FUNCIONA 
 html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li:hover{
 	display: block;
 	position: relative;
-}
+}*/
 
 
 /* Barra navegación --  Margen inferior*/	
@@ -83,13 +83,11 @@ html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.na
 	margin-bottom: 0px;
 }
 
+/* Barra navegación  --  Comportamiento cuando el cursor está encima */ 
 html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li a:hover{
 	background-image: linear-gradient(to bottom, #A39CAB 25%, #350550 100%);
 	color: #FFFFFF;
 }
-/*.navbar-default .navbar-nav > .active > a:hover {
-  background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
-}*/
 
 
 /* Para dispositivos pequeños (tablets,768px y hacia rriba) PONER COMPORTAMIENTO */
