@@ -68,7 +68,7 @@ nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-colla
 	
 }
 
-.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li.active a { 
+nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li.active a { 
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
 }
 
@@ -77,7 +77,10 @@ nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-colla
 nav.navbar.navbar-default.navbar-fixed-top{
 	margin-bottom: 0px;
 }
-
+/*ESTE NO FUNCIONA TODAVIA */
+nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li.active a{ 
+	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
+}
 
 /* Para dispositivos pequeños (tablets,768px y hacia rriba) PONER COMPORTAMIENTO */
 @media (min-width: @screen-sm-min) { ... }

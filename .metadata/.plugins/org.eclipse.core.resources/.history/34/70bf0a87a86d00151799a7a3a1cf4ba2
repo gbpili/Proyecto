@@ -51,6 +51,14 @@ button.btn.btn-info.btn-block{
 }
 /* Fin Boton */
 
+/*.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    
+    background-color: red;
+}*/
+
+
 /* Barra navegacion */
 nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li a { 
 	padding: 30px 15px 30px 15px;
@@ -58,26 +66,18 @@ nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-colla
 	font-size: 1.2em; 
 	}
 
-nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li a { 
+nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li a { 
 	padding: 15px 
 }
-
-
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .active > a {
-	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
-	
-}
-
-.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li.active a { 
-	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
-}
-
-	
 
 nav.navbar.navbar-default.navbar-fixed-top{
 	margin-bottom: 0px;
 }
-
+/*ESTE NO FUNCIONA TODAVIA */
+nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav > li.active:active
+{
+	background-color: red;
+}
 
 /* Para dispositivos pequeños (tablets,768px y hacia rriba) PONER COMPORTAMIENTO */
 @media (min-width: @screen-sm-min) { ... }

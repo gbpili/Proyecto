@@ -67,10 +67,10 @@ nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-colla
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
 	
 }
-
-.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li.active a { 
+/*
+nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse ul.nav.navbar-nav li.dropdown.open ul.dropdown-menu li.active a { 
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
-}
+}*/
 
 	
 
