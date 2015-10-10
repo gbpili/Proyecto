@@ -1,0 +1,100 @@
+
+/*    General  */
+body {
+
+	font-family: Verdana,Georgia,sans-serif;
+	background-color: #A39CAB;
+	color: #180827;
+}
+/* Pagina index  */
+h1.titulo, a.cartel1{ 
+	text-align: center;
+	color: #A39CAB; 
+	font-family: Verdana; 
+	font-size: 4em;
+	
+}
+
+/* Titulo actividades */
+h1.titulo2, h2.titulo2{ 
+	text-align: center;
+	color: #350550;
+	margin-top: 50px;
+}
+h1.titulo3, h3, h2{
+	color: #350550;
+	} 
+/* Fin titulo actividades */
+
+/* Margen texto cuadro actividades*/
+div.container div.row-act{
+	padding-top: 15px;
+}
+/* Fin margen */
+
+/* Etiquetas de precio e informacion */
+h2 span.label.label-info{
+	background-color: #350550;
+}
+/* Fin etiquetas */
+
+/* Boton Reserva Actividades  */ 
+
+button.btn.btn-info.btn-block{
+	background-color: #350550;
+	border-color: #350550; 
+	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
+	
+}
+/* Fin Boton */
+
+/* Barra navegacion */
+.navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav li a { 
+	padding: 30px 15px 30px 15px;
+	color: #A349a4;
+	font-size: 1.2em; 
+}
+
+
+/*
+.navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown.open .dropdown-menu li a { 
+	padding: 15px 
+}*/
+
+/* Barra navegación --  Color sobreado cuando este activo */
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .active > a {
+	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
+}
+
+.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown.open .dropdown-menu .active a { 
+	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
+}
+
+/*  PARA MENU DESPLEGABLE */
+.navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown.open .dropdown-menu li a,
+html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li.dropdown:hover ul{
+	display: block;
+	padding: 15px;
+}
+
+
+/* Barra navegación --  Margen inferior*/	
+
+.navbar.navbar-default.navbar-fixed-top{
+	margin-bottom: 0px;
+}
+
+/* Barra navegación  --  Comportamiento cuando el cursor está encima */ 
+.navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav li a:hover{
+	background-image: linear-gradient(to bottom, #A39CAB 25%, #350550 100%);
+	color: #FFFFFF;
+	
+}
+
+
+/* Para dispositivos pequeños (tablets,768px y hacia rriba) PONER COMPORTAMIENTO */
+@media (min-width: @screen-sm-min) { ... }
+
+/* Para dispositivos medios  992px*/
+
+/* Para dispositivos grandes  1200px y hacia arriba)*/
