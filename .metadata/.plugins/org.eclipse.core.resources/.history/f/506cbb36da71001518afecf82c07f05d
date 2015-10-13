@@ -262,7 +262,6 @@
 		<script src="bower_components/bootstrap3-ie10-viewport-bug-workaround/ie10-viewport-bug-workaround.js"></script>
 		
 	</body>
-	
 	<script>
         $(document).ready(function(){        
             $('li img').on('click',function(){
