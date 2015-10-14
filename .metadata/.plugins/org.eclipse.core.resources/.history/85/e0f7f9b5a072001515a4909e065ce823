@@ -91,7 +91,7 @@
 			      <img class="img-responsive" src="imagenes/small/annapurna-i-expedition.jpg" title="Annapurna II" alt="Annapurna-Exp2" />
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/baruntse-expedition.jpg" title="Lhotse" alt="Lhotse"/>
+			      <img class="img-responsive" src="imagenes/small/baruntse-expedition.jpg" tittle="Lhotse" alt="Lhotse"/>
 			   </li>
 			</ul>
 			<!-- Fila 2-->
@@ -112,7 +112,7 @@
 			      <img class="img-responsive" src="imagenes/small/chitwan-national-park-tour.jpg" title="Parque Chitwan" alt="Chitwan"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/bungy-jumping-in-nepal.jpg" title="Tour aventura" alt="Salto"/>
+			      <img class="img-responsive" src="imagenes/small/bungy-jumping-in-nepal.jpg" title="Tour " alt="Salto"/>
 			   </li>
 			</ul>
 			<!-- Fila 3 -->

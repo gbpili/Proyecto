@@ -76,127 +76,127 @@
 		  		 
 			<ul class="row"> 
 		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/ama-dablam-expedition.jpg" title="Montaña Ama Dablam" alt="Ama-Dablam"/>
+			      <img class="img-responsive" src="imagenes/small/ama-dablam-expedition.jpg" alt="Ama-Dablam"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/annapurna-base-camp-trekking.jpg" title="CB Annapurna" alt="Annapurna"/>
+			      <img class="img-responsive" src="imagenes/small/annapurna-base-camp-trekking.jpg" alt="Annapurna"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/annapurna-iv-expedition.jpg" title="Annappurna I" alt="Annapurna-Exp" />
+			      <img class="img-responsive" src="imagenes/small/annapurna-iv-expedition.jpg" alt="Annapurna-Exp" />
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/annapurna-mountain-flight-tour.jpg" title="Vuelo de montaña" alt="Annapurna Vuelo" />
+			      <img class="img-responsive" src="imagenes/small/annapurna-mountain-flight-tour.jpg" alt="Annapurna Vuelo" />
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/annapurna-i-expedition.jpg" title="Annapurna II" alt="Annapurna-Exp2" />
+			      <img class="img-responsive" src="imagenes/small/annapurna-i-expedition.jpg" alt="Annapurna-Exp2" />
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/baruntse-expedition.jpg" title="Lhotse" alt="Lhotse"/>
+			      <img class="img-responsive" src="imagenes/small/baruntse-expedition.jpg" alt="Lhotse"/>
 			   </li>
 			</ul>
 			<!-- Fila 2-->
       		<ul class="row">
 		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/bardia-national-park-tour.jpg" title="Parque Nacional" alt="Parque"/>
+			      <img class="img-responsive" src="imagenes/small/bardia-national-park-tour.jpg" alt="Parque"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/chitwan-tour.jpg" title="Tour Chitwan" alt="Chitwan" />
+			      <img class="img-responsive" src="imagenes/small/chitwan-tour.jpg" alt="Chitwan" />
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/cho-oyu-expedition.jpg" title="Vistas Lhotse" alt="Lhotse2"/>
+			      <img class="img-responsive" src="imagenes/small/cho-oyu-expedition.jpg" alt="Ama-Dablam2"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/canyoning-in-nepal.jpg" title="Tour aventura" alt="Canion"/>
+			      <img class="img-responsive" src="imagenes/small/canyoning-in-nepal.jpg" alt="Canion"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/chitwan-national-park-tour.jpg" title="Parque Chitwan" alt="Chitwan"/>
+			      <img class="img-responsive" src="imagenes/small/chitwan-national-park-tour.jpg" alt="Chitwan"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/bungy-jumping-in-nepal.jpg" title="Tour aventura" alt="Salto"/>
+			      <img class="img-responsive" src="imagenes/small/bungy-jumping-in-nepal.jpg" alt="Salto"/>
 			   </li>
 			</ul>
 			<!-- Fila 3 -->
 			<ul class="row">
 		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/chulu-west-peak-climbing.jpg" title="Island Peak" alt="Island"/>
+			      <img class="img-responsive" src="imagenes/small/chulu-west-peak-climbing.jpg" alt="Island"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/everest-3-pass-trekking.jpg" title="Everest" alt="Everest1"/>
+			      <img class="img-responsive" src="imagenes/small/everest-3-pass-trekking.jpg" alt="Everest1"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/everest-mountain-flight.jpg" title="Vistas Everest" alt="Everest-Vuelo"/>
+			      <img class="img-responsive" src="imagenes/small/everest-mountain-flight.jpg" alt="Everest-Vuelo"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/everest-base-camp-trekking.jpg" title="CB Everest" alt="EverestBC"/>
+			      <img class="img-responsive" src="imagenes/small/everest-base-camp-trekking.jpg" alt="EverestBC"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/ganden-to-samye-trekking.jpg" title="Trek Annapurna" alt="Trek1"/>
+			      <img class="img-responsive" src="imagenes/small/ganden-to-samye-trekking.jpg" alt="Trek1"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/ghorepano-poonhill-trekking.jpg" title="Trek Island Peak" alt="Island2"/>
+			      <img class="img-responsive" src="imagenes/small/ghorepano-poonhill-trekking.jpg" alt="Island2"/>
 			   </li>
 			</ul>
 			<!-- Fila 4 -->
       		<ul class="row">
 		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/gokyo-lake-trekking.jpg" title="Gokyo Lake" alt="Trek2"/>
+			      <img class="img-responsive" src="imagenes/small/gokyo-lake-trekking.jpg" alt="Trek2"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/gokyo-chola-pass-kalapathar-trekking.jpg" title="Trek Island Peak" alt="Trek3"/>
+			      <img class="img-responsive" src="imagenes/small/gokyo-chola-pass-kalapathar-trekking.jpg" alt="Trek3"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/honey-hunting-in-nepal.jpg" title="Tour Lhasa" alt="Trek4"/>
+			      <img class="img-responsive" src="imagenes/small/honey-hunting-in-nepal.jpg" alt="Trek4"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/tsum-valley-trekking.jpg" title="Manaslu" alt="Trek5"/>
+			      <img class="img-responsive" src="imagenes/small/tsum-valley-trekking.jpg" alt="Trek5"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/trisuli-river-rafting.jpg" title="Rafting" alt="Trek6"/>
+			      <img class="img-responsive" src="imagenes/small/trisuli-river-rafting.jpg" alt="Trek6"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/jiri-to-everest-trekking.jpg" title="Vistas Everest" alt="Everest3"/>
+			      <img class="img-responsive" src="imagenes/small/jiri-to-everest-trekking.jpg" alt="Everest3"/>
 			   </li>
 			</ul>
 			<!-- Fila 5 -->
 			<ul class="row">
 		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/journey-to-dragon-kingdom-tour.jpg" title="Lumbini" alt="Tour"/>
+			      <img class="img-responsive" src="imagenes/small/journey-to-dragon-kingdom-tour.jpg" alt="Tour"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/kathmandu-valley-tour.jpg" title="Katmandu" alt="Katmandu"/>
+			      <img class="img-responsive" src="imagenes/small/kathmandu-valley-tour.jpg" alt="Katmandu"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/kathmandu-lhasa-tours.jpg" title="Katmandu Cultural" alt="Katmandu2"/>
+			      <img class="img-responsive" src="imagenes/small/kathmandu-lhasa-tours.jpg" alt="Katmandu2"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/kathmandu-valley-trek.jpg" title="Katmandu" alt="Katmandu3"/>
+			      <img class="img-responsive" src="imagenes/small/kathmandu-valley-trek.jpg" alt="Katmandu3"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/langtang-ganjala-pass-trekking.jpg" title="Tour Sirubari" alt="Langtang1"/>
+			      <img class="img-responsive" src="imagenes/small/langtang-ganjala-pass-trekking.jpg" alt="Langtang1"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/langtang-region-trekking.jpg" title="Tour Sirubari" alt="Langtang2"/>
+			      <img class="img-responsive" src="imagenes/small/langtang-region-trekking.jpg" alt="Langtang2"/>
 			   </li>
 			</ul>
 			<!-- Fila 6 -->
 			<ul class="row">
 		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/lumbini-tour.jpg" title="Tour Lumbini" alt="Lumbini1"/>
+			      <img class="img-responsive" src="imagenes/small/lumbini-tour.jpg" alt="Lumbini1"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/lhakpa-ri-expedition.jpg" title="Tour Lhasa" alt="Lhasa"/>
+			      <img class="img-responsive" src="imagenes/small/lhakpa-ri-expedition.jpg" alt="Lhasa"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/manaslu-expedition.jpg" title="Manaslu" alt="Manaslu"/>
+			      <img class="img-responsive" src="imagenes/small/manaslu-expedition.jpg" alt="Manaslu"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/makalu-expedition.jpg" title="Makalu" alt="Makalu"/>
+			      <img class="img-responsive" src="imagenes/small/makalu-expedition.jpg" alt="Makalu"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/mt-everest-expedition.jpg" title="Everest" alt="Everest2"/>
+			      <img class="img-responsive" src="imagenes/small/mt-everest-expedition.jpg" alt="Everest2"/>
 			   </li>
 			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
-			      <img class="img-responsive" src="imagenes/small/sirubari-village-tour.jpg" title="Tour Suribari" alt="Sirubari"/>
+			      <img class="img-responsive" src="imagenes/small/sirubari-village-tour.jpg" alt="Suribari"/>
 			   </li>
 			</ul>
 			
@@ -262,5 +262,77 @@
 		<script src="bower_components/bootstrap3-ie10-viewport-bug-workaround/ie10-viewport-bug-workaround.js"></script>
 		
 	</body>
-			
+	
+		<!-- <script>
+        $(document).ready(function(){        
+            $('li img').on('click',function(){
+                var src = $(this).attr('src');
+                var img = '<img src="' + src + '" class="img-responsive"/>';
+                
+                //start of new code new code
+                var index = $(this).parent('li').index();   
+                
+                var html = '';
+                html += img;                
+                html += '<div style="height:25px;clear:both;display:block;">';
+                html += '<a class="controls next" href="'+ (index+2) + '">next &raquo;</a>';
+                html += '<a class="controls previous" href="' + (index) + '">&laquo; prev</a>';
+                html += '</div>';
+                
+                $('#myModal').modal();
+                $('#myModal').on('shown.bs.modal', function(){
+                    $('#myModal .modal-body').html(html);
+                    //new code
+                    $('a.controls').trigger('click');
+                })
+                $('#myModal').on('hidden.bs.modal', function(){
+                    $('#myModal .modal-body').html('');
+                });
+                
+                
+                
+                
+           });
+        
+        })
+        
+        //new code
+        $(document).on('click', 'a.controls', function(){
+            var index = $(this).attr('href');
+            var src = $('ul.row li:nth-child('+ index +') img').attr('src');             
+            
+            $('.modal-body img').attr('src', src);
+            
+            var newPrevIndex = parseInt(index) - 1; 
+            var newNextIndex = parseInt(newPrevIndex) + 2; 
+            
+            if($(this).hasClass('previous')){               
+                $(this).attr('href', newPrevIndex); 
+                $('a.next').attr('href', newNextIndex);
+            }else{
+                $(this).attr('href', newNextIndex); 
+                $('a.previous').attr('href', newPrevIndex);
+            }
+            
+            var total = $('ul.row li').length + 1; 
+            //hide next button
+            if(total === newNextIndex){
+                $('a.next').hide();
+            }else{
+                $('a.next').show()
+            }            
+            //hide previous button
+            if(newPrevIndex === 0){
+                $('a.previous').hide();
+            }else{
+                $('a.previous').show()
+            }
+            
+            
+            return false;
+        });
+        
+         
+        
+    </script>  -->
 </html>

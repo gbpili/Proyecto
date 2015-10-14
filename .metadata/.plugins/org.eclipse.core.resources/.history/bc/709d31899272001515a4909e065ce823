@@ -27,10 +27,16 @@ h1.titulo3, h3, h2{
 /* Fin titulo actividades */
 
 /* Margen texto cuadro actividades*/
-div.container div.row-act{
-	padding-top: 15px;
+.container .row-act{
+	padding-top: 10px;
 }
 /* Fin margen */
+
+/*Margen cuadro texto descripcion actividad */
+.container .row-act .container .jumbotron p{
+	padding-top: 50px;
+}
+
 
 /* Etiquetas de precio e informacion */
 h2 span.label.label-info{
@@ -48,6 +54,11 @@ button.btn.btn-info.btn-block{
 }
 /* Fin Boton */
 
+button.btn-primary{
+	background-color: #350550;
+	border-color: #350550;
+}
+
 /* Barra navegacion */
 .navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav li a { 
 	padding: 30px 15px 30px 15px;
@@ -55,10 +66,9 @@ button.btn.btn-info.btn-block{
 	font-size: 1.2em; 
 }
 
-
-
+/* Barra navegación ---  Margen submenu */
 .navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown .dropdown-menu li a { 
-	padding: 15px 
+	padding: 15px; 
 }
 
 /* Barra navegación --  Color sobreado cuando este activo */
@@ -66,17 +76,14 @@ button.btn.btn-info.btn-block{
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
 }
 
-.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown.open .dropdown-menu .active a { 
+.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown .dropdown-menu .active a { 
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
 }
 
-/*  PARA MENU DESPLEGABLE
-.navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown.open .dropdown-menu li a,
-html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav li.dropdown:hover ul{
+/*  Submenu desplegable al pasar cursor  */
+.navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav .dropdown:hover ul{
 	display: block;
-	padding: 15px;
-}*/
-
+}
 
 /* Barra navegación --  Margen inferior*/	
 
@@ -91,10 +98,35 @@ html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.na
 	
 }
 
+/*  Galeria de imagenes  */
+ul li img{
+	cursor: pointer;
+}
+.modal-body{
+	padding: 5px !important;
+}
+.modal-content{
+	border-radius: 0;
+}
+.modal-dialog{
+	text-align: center;
+	margin: 0 auto;
+}
 
-/* Para dispositivos pequeños (tablets,768px y hacia rriba) PONER COMPORTAMIENTO */
-@media (min-width: @screen-sm-min) { ... }
+/* Para dispositivos pequeños (smartphone hasta 450px)  */
+@media screen and (min-width: 240px) and (max-width: 450px){
+	.container .row-act .col-act h2, .container .row-act .col-act h3, .container .row-act .container .jumbotron p{
+		font-size: 1.0em;
+	}
+	.container .titulo2{
+		font-size: 150%;
+	}	
+}
 
 /* Para dispositivos medios  992px*/
-
+@media screen and (min-width: 740px) and (max-width: 1024px){
+	.container h1.titulo2, .container h2.titulo2{
+		 margin-top: 110px;
+	}
+}
 /* Para dispositivos grandes  1200px y hacia arriba)*/

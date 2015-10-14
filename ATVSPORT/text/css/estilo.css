@@ -44,15 +44,15 @@ h2 span.label.label-info{
 }
 /* Fin etiquetas */
 
-/* Boton Reserva Actividades  */ 
-
-button.btn.btn-info.btn-block{
+/* Boton Reserva Actividades  y Envio de formulario */ 
+.btn.btn-info.btn-block, .container .form-horizontal .form-group .col-xs-offset-3.col-xs-9 .btn.btn-primary{
 	background-color: #350550;
 	border-color: #350550; 
 	background-image: linear-gradient(to bottom, #65218A 0%, #350550 100%);
 	
 }
 /* Fin Boton */
+
 
 /* Barra navegacion */
 .navbar.navbar-default.navbar-fixed-top .container #navbar.navbar-collapse.collapse .nav.navbar-nav li a { 
@@ -93,6 +93,14 @@ button.btn.btn-info.btn-block{
 	
 }
 
+/*  Color texto pie paginas  */
+.container footer p a{
+	color: #350550;
+}
+.container footer p a:hover, .container footer p a:active{
+	color: #180827;
+}
+
 /*  Galeria de imagenes  */
 ul li img{
 	cursor: pointer;
@@ -124,4 +132,3 @@ ul li img{
 		 margin-top: 110px;
 	}
 }
-/* Para dispositivos grandes  1200px y hacia arriba)*/

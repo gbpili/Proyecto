@@ -9,7 +9,7 @@
 
 		<link rel="icon" href="../../favicon.ico" />
 
-		<title>Nosotros</title>
+		<title>Contacto</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
@@ -53,7 +53,7 @@
 				<div id="navbar" class="navbar-collapse collapse pull-right">
 					<ul class="nav navbar-nav">
 						<li><a href="index.html">Inicio</a></li>
-						<li class="active"><a href="nosotros.html">Sobre nosotros</a></li>
+						<li><a href="nosotros.html">Sobre nosotros</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
 							<ul class="dropdown-menu">
@@ -64,7 +64,7 @@
 						</li>
 						
 						<li><a href="galeria.html">Galeria</a></li>
-						<li><a href="contacto.html">Contacto</a></li>
+						<li class="active"><a href="contacto.html">Contacto</a></li>
 					</ul>
 				</div><!--/.nav-collapse -->
 			</div>
@@ -72,43 +72,99 @@
 		 
 		 <div class="container">
 		   <div class="jumbotron">	
-		     <h1 class="titulo2"> NUESTRA EMPRESA</h1>
-		        <p>ATVSport nace en 2008 aprovechando el conocimiento que el fundador tiene del lugar y sus muchos viajes a la zona. Su fundador, Manuel González, es un montañero con muchísima experiencia y expediciones realizadas, que lleva desde muy joven en este mundo.
-		        	Su amplia experiencia sobre el terreno es lo que hace que nuestros clientes salgan satisfechos con sus actividades y vuelvan a confiar en nosotros. <br /> <br />
-		        	Somos una empresa profesional , con licencia en montañismo y trekking. Desde nuestro personal en oficina hasta el equipo de montaña tienen muchos años de experiencia en este sector, y lo demuestran por el cariño e interés que ponen en cada actividad. <br /> <br />
-		        	Subimos montañas porque nos resulta divertido, desafiante y amamos la naturaleza, y nos encanta compartir esas sensaciones con nuestros clientes. A lo largo de estos años, hemos trabajado con cientos de clientes, realizando un sinfín de actividades distintas, disfrutando siempre con ellos de lo que más nos gusta.
-		        	Póngase en contacto con nosotros. 	<br />	<br />        	¡QUEREMOS SER TU EQUIPO!
-		        	
-		        </p>
-		   </div>
-			
-		<hr class="featurette-divider">
-			
+		     <h2 class="titulo2"><b>CONTACTO</b></h2>
+		     <div class="row">
+		  	  <div class="col-md-4">
+        		 <h3>TELEFONO</h3>
+          			<p>+34 952 784 456</p>
+           		</div>
+           		<div class="col-md-4">
+        		  <h3>EMAIL</h3>
+          			<p>atvsport@grupoatv.com</p>
+           		</div>
+           		<div class="col-md-4">
+        		  <h3>DIRECCION</h3>
+          			<p>C/ Emperador - Málaga</p>
+           		</div>
+           	  </div>
+		   	</div>
+		 </div>
+		 <div class="container">  	
+		   <form class="form-horizontal" action="http://127.0.0.1:8020/ATVSPORT/contacto.php" method="post" enctype="text/plain">  <!--Formulario -->
+		   	  <input type="hidden" name="recipients" value="mpllaves@gmail.com" />
+		   	  <input type="hidden" name="required" value="nombre:<?php echo $errors[1] ?>,email,tfno,asunto,mensaje" />	
+		
+		   	  <h3> FORMULARIO</h3>
+		   	  <p>A través de este formulario puedes hacernos llegar tus consultas y dudas, así como indicarnos tu idea o deseo y poder confeccionarte una aventura a medida.</p>
+		   	  <div class="form-group required">
+        		 <label class="control-label col-xs-3">Nombre y Apellidos:</label>
+        		 <div class="col-xs-9">
+            	 	<input name="nombre" type="text" class="form-control" placeholder="Nombre y Apellidos">
+            		
+        		 </div>
+    		 </div>
+		   	 <div class="form-group required">
+        		<label class="control-label col-xs-3">Email:</label>
+        		<div class="col-xs-9">
+            		<input name="email" type="email" class="form-control" id="inputEmail" placeholder="Email">
+      
+        		</div>
+        	</div>
+    		<div class="form-group required">
+        		<label class="control-label col-xs-3" >Teléfono:</label>
+        		<div class="col-xs-9">
+            		<input name="tfno" type="tel" class="form-control" placeholder="Telefono">
+        		</div>
+    		</div>
+    		<div class="form-group required">
+        		<label class="control-label col-xs-3" >Asunto/Actividad:</label>
+        		<div class="col-xs-9">
+            		<input name="asunto" type="text" class="form-control" placeholder="Actividad">
+        		</div>
+    		</div>
+    		<div class="form-group required">
+        		<label class="control-label col-xs-3">Mensaje:</label>
+        			<div class="col-xs-9">
+            		<textarea name="mensaje" class="form-control" placeholder="Mensaje" rows="3" cols="20"></textarea>
+        			</div>
+    		</div>
+    		<br>
+    		<div class="form-group">
+        		<div class="col-xs-offset-3 col-xs-9">
+            		<input name="envio" type="submit" class="btn btn-primary" value="Enviar">
+            		<input name="limpio" type="reset" class="btn btn-default" value="Limpiar">
+        		</div>
+    		</div>
+    		
+		</form>
+		
+		 <hr class="featurette-divider">
+		 
 		<!-- FOOTER -->
 			
 			<footer> 
 			   <div class="row featurette">
-       			   <div class="col-sm-4 col-md-3">
+       			   <div class="col-md-3 col-sm-6">
           			   <h2 class="featurette-heading">Asociado con:</h2>
         		   </div>
-        		   <div class="col-sm-4 col-md-3">
+        		   <div class="col-md-3 col-sm-6">
         		 	   <img class="featurette-image img-responsive center-block" src="imagenes/associated.jpg" alt="Colaboradores">
         		   </div>
-        		   <div class="col-sm-4 col-md-3">
+        		   <div class="col-md-3 col-sm-6">
         			   <h2 class="featurette-heading">Síguenos en:</h2>
         		   </div>
-        		   <div class="col-sm-3 col-md-1">
-        			   <a href="https://www.facebook.com/De0a9000?fref=ts" target="blank">
+        		   <div class="col-md-1 col-sm-2 col-xs-4">
+        			   <a href="https://www.facebook.com/De0a9000?fref=ts" target="_blank">
         			      <img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
         			   </a>
         		   </div>
-        		   <div class="col-sm-3 col-md-1">
+        		   <div class="col-md-1 col-sm-2 col-xs-4">
         			   <a href="#" target="_blank">
         			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         			   </a>
         		   </div>
-        		   <div class="col-sm-3 col-md-1">
-        			   <a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="blank">
+        		   <div class="col-md-1 col-sm-2 col-xs-4">
+        			   <a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="_blank">
         			      <img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
         		       </a>
         		   </div> 
@@ -117,14 +173,16 @@
 			   <hr class="featurette-divider">
 
       		   <p class="pull-right">
-				 <a href="nosotros.html">Subir</a>
+				 <a href="contacto.html">Subir</a>
 			   </p>
 			   <p>
 			      &copy; 2015 ATVSport. &middot; <a href="contacto.html">Email: atvsport@grupoatv.com</a>
 			   </p>
 			</footer>
 		
-	 </div> <!-- container -->
+	    </div> <!-- container -->
+		
+	  
 		
 		 <!-- Bootstrap core JavaScript
     ================================================== -->
