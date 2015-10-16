@@ -18,7 +18,7 @@
 		
 		<link type="text/css" rel="stylesheet" href="text/css/navbar-fixed-top.css" />
 		<link type="text/css" rel="stylesheet" href="text/css/jumbotron.css" />
-		<link type="text/css" rel="stylesheet" href="text/css/estilo.css" />
+		 <!-- <link type="text/css" rel="stylesheet" href="text/css/estilo.css" /> -->
 		<link type="text/css" rel="stylesheet" href="text/css/carousel.css" />
 		
 		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
