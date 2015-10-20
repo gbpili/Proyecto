@@ -90,7 +90,7 @@
 		   	</div>
 		 </div>
 		 <div class="container">  	
-		   <form class="form-horizontal" action="contacto.php" method="post" enctype="text/plain">  <!--Formulario -->
+		   <form class="form-horizontal" action="contacto3.php" method="post" enctype="text/plain">  <!--Formulario -->
 		   	 <!-- <input type="hidden" name="recipients" value="mpllaves@gmail.com" />
 		   	  <input type="hidden" name="required" value="nombre:<?php echo $errors[1] ?>,email,tfno,asunto,mensaje" />  -->
 		
@@ -132,6 +132,7 @@
     		<div class="form-group">
         		<div class="col-xs-offset-3 col-xs-9">
             		<input name="envio" type="submit" class="btn btn-primary" value="Enviar"> 
+            		 <a href="http://127.0.0.1:8020/ATVSPORT/contacto3.php">Enviar</a>
             		<input name="limpio" type="reset" class="btn btn-default" value="Limpiar">
         		</div>
     		</div>
@@ -159,7 +160,7 @@
         			   </a>
         		   </div>
         		   <div class="col-md-1 col-sm-2 col-xs-4">
-        			   <a href="https://twitter.com/sports_atv" target="_blank">
+        			   <a href="#" target="_blank">
         			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         			   </a>
         		   </div>

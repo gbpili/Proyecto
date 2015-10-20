@@ -90,7 +90,7 @@
 		   	</div>
 		 </div>
 		 <div class="container">  	
-		   <form class="form-horizontal" action="contacto.php" method="post" enctype="text/plain">  <!--Formulario -->
+		   <form class="form-horizontal" action="contacto3.php" method="post" enctype="text/plain">  <!--Formulario -->
 		   	 <!-- <input type="hidden" name="recipients" value="mpllaves@gmail.com" />
 		   	  <input type="hidden" name="required" value="nombre:<?php echo $errors[1] ?>,email,tfno,asunto,mensaje" />  -->
 		
@@ -159,7 +159,7 @@
         			   </a>
         		   </div>
         		   <div class="col-md-1 col-sm-2 col-xs-4">
-        			   <a href="https://twitter.com/sports_atv" target="_blank">
+        			   <a href="#" target="_blank">
         			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         			   </a>
         		   </div>
