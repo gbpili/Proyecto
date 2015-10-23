@@ -9,7 +9,10 @@ $msjCorreo = "Nombre: $nombre\n E-Mail: $email\n Mensaje:\n $mensaje";
 
 if ($_POST['submit']) {
 if (mail($para, $asunto, $msjCorreo, $header)) {
-echo 'Mensaje enviado correctamente. En breve nos pondremos en contacto con usted. Gracias';
+echo "<script language='javascript'>
+alert('Mensaje enviado, muchas gracias.');
+window.location.href = 'http://pili.erola.es';
+</script>";
 } else {
 echo 'Falló el envio';
 }

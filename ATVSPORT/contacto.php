@@ -44,6 +44,5 @@
 		$_POST['asunto'] = '';
 		$_POST['mensaje'] = '';
     }
-        
-
+ 
 ?>

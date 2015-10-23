@@ -129,7 +129,7 @@
 			<!-- Tres columnas bajo el carousel -->
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-9">
-					<img class="img-rounded img-responsive" src="imagenes/big/Island-Peak/island_peak-trek2.JPG" alt="Trekking Island Peak" width="330" height="240">
+					<img class="img-rounded img-responsive" src="imagenes/big/Island-Peak/island_peak-trek2-red.JPG" alt="Trekking Island Peak" width="330" height="240">
 					<h2>Trekking</h2>
 					<p class="lead">
 						Encuentra una amplia gama de trekking para realizar. <br /> Todo dependerá de tu forma física y tus ganas.
@@ -139,7 +139,7 @@
 					</p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-9">
-					<img class="img-rounded img-responsive" src="imagenes/big/Everest/vistas-everest2.JPG" alt="Expedición Annapurna" width="330" height="240">
+					<img class="img-rounded img-responsive" src="imagenes/big/Everest/vistas-everest2-red.JPG" alt="Expedición Annapurna" width="330" height="240">
 					<h2>Expediciones</h2>
 					<p class="lead">
 						Una gran aventura. <br/> Una experiencia única. <br /> Todo un reto <br /> ¿Estas dispuesto a vivirlo...?
@@ -149,7 +149,7 @@
 					</p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-9">
-					<img class="img-rounded img-responsive" src="imagenes/big/Everest/vistas-everest3.JPG" alt="Tu aventura" width="330" height="240">
+					<img class="img-rounded img-responsive" src="imagenes/big/Everest/vistas-everest3-red.JPG" alt="Tu aventura" width="330" height="240">
 					<h2>Crea tu aventura</h2>
 					<p class="lead">
 						¿Quieres realizar una actividad pero ninguna se ajusta a lo que deseas?. Cuéntanos que quieres y te ayudamos.
@@ -197,7 +197,7 @@
         			   </a>
         		   </div>
         		   <div class="col-md-1 col-sm-2 col-xs-4">
-        			   <a href="#" target="_blank">
+        			   <a href="https://twitter.com/sports_atv" target="_blank">
         			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         			   </a>
         		   </div>

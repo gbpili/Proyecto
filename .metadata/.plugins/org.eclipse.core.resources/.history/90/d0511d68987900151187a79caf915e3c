@@ -5,7 +5,7 @@ if(isset($_POST['email'])) {
  
     $email_to = "mpllaves@gmail.com";
  
-    $email_asunto = "Contacto";   
+    $email_asunto = $_POST['asunto'];   
  
     function died($error) {
  
@@ -135,8 +135,11 @@ $headers = 'From: '.$email_de."\r\n".
  
 <!-- incluye aqui tu propio mensaje de Éxito-->
  
-Gracias! Nos pondremos en contacto contigo en breve
+Gracias! Nos pondremos en contacto contigo a la brevedad
  
  
 <?php
  
+}
+ 
+?>

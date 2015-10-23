@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sample form for use with formmail.php</title>
+</head>
+<body>
+
+
+
+
+
+
+    <!-- STEP 1: Put the full URL to formmail.php on your website in the 'action' value. -->
+<form method="post" action="http://www.your-host-name/formmail.php" name="SampleForm">
+    <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
+
+    <!-- STEP 2: Put your email address in the 'recipients' value.
+                 Note that you also have to allow this email address in the
+                 $TARGET_EMAIL setting within formmail.php!
+    -->
+    <input type="hidden" name="recipients" value="you@your-host-name" />
+
+    <!-- STEP 3: Specify required fields in the 'required' value - or leave unchanged.
+            NOTE: DO NOT put your email address and name here.
+            "Your email address" and "Your name" are error messages for your users to see,
+            not placeholders for you to replace.
+    -->
+    <input type="hidden" name="required" value="EmailAddr:Your email address,FullName:Your name" />
+
+    <!-- STEP 4: Put your subject line in the 'subject' value. -->
+    <input type="hidden" name="subject" value="Sample FormMail Testing" />
+
+    <!-- ALL DONE! Visit our site for HOW TO guides and more complex features. -->
+
+    <!-- this derives (creates) "email" and "realname" special fields from the input fields -->
+    <input type="hidden" name="derive_fields" value="email=EmailAddr,realname=FullName" />
+
+    <!-- this excludes the "email" and "realname" special fields from the body of the email you receive -->
+    <input type="hidden" name="mail_options" value="Exclude=email;realname" />
+
+
+
+        <p>Please enter your name:</p>
+        <input type="text" name="FullName" />
+        
+        <p>Please enter your email address:</p>
+        <input type="text" name="EmailAddr" />
+        
+		<p>May we contact you?</p>
+            Yes <input type="radio" name="contact" value="Y" checked="checked" />
+            No <input type="radio" name="contact" value="N" />
+
+		<p>What are your favourite colours?</p>
+            Red     <input type="checkbox" name="colors[]" value="red" />
+            Blue    <input type="checkbox" name="colors[]" value="blue" />
+            Yellow  <input type="checkbox" name="colors[]" value="yellow" />
+
+		<p>What vehicles do you have a license to operate?</p>
+            <select name="vehicles[]" multiple="multiple" size="5">
+                <option value="Car">Car</option>
+                <option value="Bus">Bus</option>
+                <option value="Truck">Truck</option>
+                <option value="Plane">Aeroplane</option>
+                <option value="Boat">Boat</option>
+            </select>&nbsp;(Select all that apply; use CTRL-click to select)
+            </p>
+
+        <p>Please enter your message:</p>
+        <textarea name="mesg" rows="10" cols="50"></textarea>
+
+		<input type="submit" value="Submit" />
+
+</form>
+
+
+
+
+</body>
+</html>

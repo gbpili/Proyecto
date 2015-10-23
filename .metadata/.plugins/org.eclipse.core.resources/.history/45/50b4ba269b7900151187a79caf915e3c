@@ -5,7 +5,7 @@ if(isset($_POST['email'])) {
  
     $email_to = "mpllaves@gmail.com";
  
-    $email_asunto = "Contacto";   
+    $email_asunto = $_POST['asunto'];   
  
     function died($error) {
  
@@ -140,3 +140,6 @@ Gracias! Nos pondremos en contacto contigo en breve
  
 <?php
  
+}
+ 
+?>
