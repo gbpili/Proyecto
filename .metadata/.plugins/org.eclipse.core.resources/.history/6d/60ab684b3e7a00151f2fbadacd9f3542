@@ -2,9 +2,9 @@
 $nombre = $_POST['nombre'];
 $email = $_POST['email'];
 $cuerpo = $_POST['mensaje'];
-$para = "mpllaves@gmail.com";
+$para = 'mpllaves@gmail.com';
 $asunto = $_POST['asunto'];
-$header = "De: " .$email."";
+$header = 'From: ' .$email;
 $msjCorreo = "Nombre: $nombre\n E-Mail: $email\n Mensaje:\n $mensaje";
 
 if ($_POST['submit']) {

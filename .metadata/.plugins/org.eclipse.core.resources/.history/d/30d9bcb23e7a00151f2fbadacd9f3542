@@ -90,7 +90,7 @@
 		   	</div>
 		 </div>
 		 <div class="container">  	
-		   <form class="form-horizontal" action="contacto2.php" method="post" enctype="text/plain">  <!--Formulario -->
+		   <form class="form-horizontal" action="contacto3.php" method="post" enctype="text/plain">  <!--Formulario -->
 		   	   <!--<input type="hidden" name="recipients" value="mpllaves@gmail.com" />
 		   	  <input type="hidden" name="required" value="nombre:<?php echo $errors[1] ?>,email,tfno,asunto,mensaje" />  -->
 		

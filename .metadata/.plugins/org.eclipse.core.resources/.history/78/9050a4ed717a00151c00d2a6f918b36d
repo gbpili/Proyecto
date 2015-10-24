@@ -36,7 +36,7 @@
 	</head>
 
 	<body>
-		<!-- CABECERA DE PAGINAS Logo y Barra de navegación fija-->
+		<!-- Barra de navegación fija-->
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
@@ -198,7 +198,7 @@
         		   </div>
         		   <div class="col-md-1 col-sm-2 col-xs-4">
         			   <a href="https://twitter.com/sports_atv" target="_blank">
-        			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twitter">
+        			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twiter">
         			   </a>
         		   </div>
         		   <div class="col-md-1 col-sm-2 col-xs-4">
