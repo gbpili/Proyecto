@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+		<meta name="description" content="" />
+		<meta name="author" content="Mª Pilar Llaves" />
+
+		<link rel="icon" href="../../favicon.ico" />
+
+		<title>Galeria Fotos</title>
+
+		<!-- Bootstrap core CSS -->
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
+		
+		<link type="text/css" rel="stylesheet" href="text/css/carousel.css" />
+		<link type="text/css" rel="stylesheet" href="text/css/navbar-fixed-top.css" />
+		<link type="text/css" rel="stylesheet" href="text/css/jumbotron.css" />
+		<link type="text/css" rel="stylesheet" href="text/css/estilo.css" />
+		
+		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+		<script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+		
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+	</head>
+
+	<body>
+		<!-- FIXED NAVBAR -->
+		  <nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">ATVSport</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a href="index.html" target="_blank">
+				 	  <img class="img-responsive" src="imagenes/logoatvs2t.png" alt="ATV Sport">
+				 	</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse pull-right">
+					<ul class="nav navbar-nav">
+						<li><a href="index.html">Inicio</a></li>
+						<li><a href="nosotros.html">Sobre nosotros</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="expediciones.html">Expediciones</a></li>
+								<li><a href="treking.html">Trekking</a></li>
+								<li><a href="visitas.html">Visitas culturales</a></li>
+							</ul>
+						</li>
+						
+						<li class="active"><a href="galeria.html">Galeria</a></li>
+						<li><a href="contacto.html">Contacto</a></li>
+					</ul>
+				</div><!--/.nav-collapse -->
+			</div>
+		  </nav>
+		      
+		  <!-- Container -->    
+		  <div class="container">
+		  	<h1 class="titulo2"><b> GALERIA FOTOGRÁFICA </b></h1>
+		  	<!-- Fila 1 --> 
+		  		 
+			<li class="row"> 
+		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-thumbnail img-responsive" src="imagenes/small/ama-dablam-expedition.jpg" title="Montaña Ama Dablam" alt="Ama-Dablam"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/annapurna-base-camp-trekking.jpg" title="CB Annapurna" alt="Annapurna"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/annapurna-iv-expedition.jpg" title="Annappurna I" alt="Annapurna-Exp" />
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/annapurna-mountain-flight-tour.jpg" title="Vuelo de montaña" alt="Annapurna Vuelo" />
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/annapurna-i-expedition.jpg" title="Annapurna II" alt="Annapurna-Exp2" />
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/baruntse-expedition.jpg" title="Lhotse" alt="Lhotse"/>
+			   </li>
+			</li>
+			<!-- Fila 2-->
+      		<ul class="row">
+		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/bardia-national-park-tour.jpg" title="Parque Nacional" alt="Parque"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/chitwan-tour.jpg" title="Tour Chitwan" alt="Chitwan" />
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/cho-oyu-expedition.jpg" title="Vistas Lhotse" alt="Lhotse2"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/canyoning-in-nepal.jpg" title="Tour aventura" alt="Canion"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/chitwan-national-park-tour.jpg" title="Parque Chitwan" alt="Chitwan"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/bungy-jumping-in-nepal.jpg" title="Tour aventura" alt="Salto"/>
+			   </li>
+			</ul>
+			<!-- Fila 3 -->
+			<ul class="row">
+		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/chulu-west-peak-climbing.jpg" title="Island Peak" alt="Island"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/everest-3-pass-trekking.jpg" title="Everest" alt="Everest1"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/everest-mountain-flight.jpg" title="Vistas Everest" alt="Everest-Vuelo"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/everest-base-camp-trekking.jpg" title="CB Everest" alt="EverestBC"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/ganden-to-samye-trekking.jpg" title="Trek Annapurna" alt="Trek1"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/ghorepano-poonhill-trekking.jpg" title="Trek Island Peak" alt="Island2"/>
+			   </li>
+			</ul>
+			<!-- Fila 4 -->
+      		<ul class="row">
+		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/gokyo-lake-trekking.jpg" title="Gokyo Lake" alt="Trek2"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/gokyo-chola-pass-kalapathar-trekking.jpg" title="Trek Island Peak" alt="Trek3"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/honey-hunting-in-nepal.jpg" title="Tour Lhasa" alt="Trek4"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/tsum-valley-trekking.jpg" title="Manaslu" alt="Trek5"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/trisuli-river-rafting.jpg" title="Rafting" alt="Trek6"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/jiri-to-everest-trekking.jpg" title="Vistas Everest" alt="Everest3"/>
+			   </li>
+			</ul>
+			<!-- Fila 5 -->
+			<ul class="row">
+		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/journey-to-dragon-kingdom-tour.jpg" title="Lumbini" alt="Tour"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/kathmandu-valley-tour.jpg" title="Katmandu" alt="Katmandu"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/kathmandu-lhasa-tours.jpg" title="Katmandu Cultural" alt="Katmandu2"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/kathmandu-valley-trek.jpg" title="Katmandu" alt="Katmandu3"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/langtang-ganjala-pass-trekking.jpg" title="Tour Sirubari" alt="Langtang1"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/langtang-region-trekking.jpg" title="Tour Sirubari" alt="Langtang2"/>
+			   </li>
+			</ul>
+			<!-- Fila 6 -->
+			<ul class="row">
+		       <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/lumbini-tour.jpg" title="Tour Lumbini" alt="Lumbini1"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/lhakpa-ri-expedition.jpg" title="Tour Lhasa" alt="Lhasa"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/manaslu-expedition.jpg" title="Manaslu" alt="Manaslu"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/makalu-expedition.jpg" title="Makalu" alt="Makalu"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/mt-everest-expedition.jpg" title="Everest" alt="Everest2"/>
+			   </li>
+			   <li class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+			      <img class="img-responsive" src="imagenes/small/sirubari-village-tour.jpg" title="Tour Suribari" alt="Sirubari"/>
+			   </li>
+			</ul>
+			
+      
+          <hr class="featurette-divider">
+		 	 
+		    <!-- FOOTER -->
+			
+			<footer> 
+			   <div class="row featurette">
+       			   <div class="col-md-3 col-sm-6 col-xs-12">
+          			   <h2 class="featurette-heading">Asociado con:</h2>
+        		   </div>
+        		   <div class="col-md-3 col-sm-6 col-xs-12">
+        		 	   <img class="featurette-image img-responsive center-block" src="imagenes/associated.jpg" alt="Colaboradores">
+        		   </div>
+        		   <div class="col-md-3 col-sm-12 col-xs-12">
+        			   <h2 class="featurette-heading">Síguenos en:</h2>
+        		   </div>
+        		   <div class="col-md-1 col-sm-4 col-xs-4">
+        			   <a href="https://www.facebook.com/De0a9000?fref=ts" target="_blank">
+        			      <img class="featurette-image img-responsive left" src="imagenes/facebook.png" alt="Facebook">
+        			   </a>
+        		   </div>
+        		   <div class="col-md-1 col-sm-4 col-xs-4">
+        			   <a href="https://twitter.com/sports_atv" target="_blank">
+        			      <img class="featurette-image img-responsive" src="imagenes/twitter.png" alt="Twitter">
+        			   </a>
+        		   </div>
+        		   <div class="col-md-1 col-sm-4 col-xs-4">
+        			   <a href="https://www.youtube.com/channel/UCSCU_T5NIxQakCLIQ00W9ww" target="_blank">
+        			      <img class="featurette-image img-responsive right" src="imagenes/youtube.png" alt="Youtube">
+        		       </a>
+        		   </div> 
+      		   </div>
+      		
+			   <hr class="featurette-divider">
+
+      		   <p class="pull-right">
+				 <a href="galeria.html">Subir</a>
+			   </p>
+			   <p>
+			      &copy; 2015 ATVSport. &middot; <a href="contacto.html">Email: atvsport@grupoatv.com</a>
+			   </p>
+			</footer>
+		
+	    </div> <!-- container -->
+	 
+		<!-- Bootstrap core JavaScript
+		================================================== -->
+		<!-- Placed at the end of the document so the pages load faster -->
+		<script src="bower_components/jQuery/dist/jquery.min.js"></script>
+		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+		<script src="bower_components/bootstrap3-ie10-viewport-bug-workaround/ie10-viewport-bug-workaround.js"></script>
+		
+	</body>
+			
+</html>
