@@ -1,0 +1,46 @@
+<?php
+if (isset($_POST['nombre']) && (trim($_POST['nombre'])!='') && isset($_POST['email']) && (trim($_POST['email'])!='') && isset($_POST['asunto']) && (trim($_POST['asunto'])!='') && isset($_POST['mensaje'])&& (trim($_POST['mensaje'])!='')) {
+	 require_once('./librerias/functions.php'); 
+
+	$cuerpo .= "Los datos de la contacto son:\n";
+	$cuerpo .= "Nombre: " . utf8_decode($_POST['nombre']) . "\n";
+	if (isset($_POST['tfno']))
+		$cuerpo .= "Tfno: " . utf8_decode($_POST['tfno']) . "\n";
+	$cuerpo .= "Correo electrónico: " . utf8_decode($_POST['email']) . "\n";
+	$cuerpo .= "Asunto: " . utf8_decode($_POST['asunto']) . "\n";
+	$cuerpo .= "Mensaje: " . utf8_decode($_POST['mensaje']) . "\n";
+
+	$destinatario = array('gbpili@hotmail.com' => 'Formulario contacto');
+	$resultado = mail($destinatario, $_POST['nombre'], $cuerpo);
+
+	if ($resultado) {
+		?> <script language=javascript> window.alert("Ha sido enviado correctamente. En breve nos pondremos en contacto con usted. Gracias.\n"); </script> <?php
+	} else {
+		?> <script language=javascript> window.alert("Lo lamentamos pero el env\xEDo ha fallado. Por favor, int\xE9ntelo de nuevo.\n"); </script> <?php
+	}
+	?>
+	<script>window.location='./contacto.html'; </script>
+	<?php
+	redirect_to("./index.html");
+
+} else {
+	?> <script language=javascript> window.alert("Por favor, revisa los campos obligatorios.\n"); </script> <?php
+	if (trim($_POST['nombre']=='')) {
+		?> <script language=javascript> window.alert("Por favor, introduzca el nombre."); </script>
+		<script>window.location='./contacto.html'; </script><?php
+		redirect_to("./contacto.html");
+	} else if (trim($_POST['email']=='')) {
+		?> <script language=javascript> window.alert("Por favor, introduzca el email."); </script>
+		<script>window.location='./contacto.html'; </script><?php
+		redirect_to("./contacto.html");
+	} else if (trim($_POST['asunto']=='')) {
+		?> <script language=javascript> window.alert("Por favor, introduzca el asunto o actividad a consultar."); </script>
+		<script>window.location='./contacto.html'; </script> <?php
+		redirect_to("./contacto.html");
+	}else if (trim($_POST['mensaje']=='')) {
+		?> <script language=javascript> window.alert("Por favor, introduzca la consulta."); </script>
+		<script>window.location='./contacto.html'; </script> <?php
+		redirect_to("./contacto.html");
+	}
+}
+?>
