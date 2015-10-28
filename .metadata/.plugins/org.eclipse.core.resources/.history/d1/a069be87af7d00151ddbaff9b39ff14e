@@ -75,7 +75,7 @@
 		  	<h1 class="titulo2"><b> TREKKING LANGTANG VALLEY </b></h1> 	 
 			
       		<div class="row-act">
-        	    <div class="col-md-5 col-sm-11 col-xs-12">
+        	    <div class="col-md-5 col-sm-8 col-xs-12">
         	      <figure>
         	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/langtang-valley-trek.jpg" alt="Trek Langtang Valley"/>
         	      </figure>
@@ -85,7 +85,7 @@
         		  <h3>Duración</h3>
           			<h2><span class="label label-info">11 días</span></h2>
           		</div>
-        		<div class="col-act col-md-2 col-sm-4 col-xs-4">
+        		<div class="ccol-act col-md-2 col-sm-4 col-xs-4">
         		  <h3>Precio</h3>
           			<h2><span class="label label-info">Consultar</span></h2>
            		</div>

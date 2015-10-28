@@ -47,7 +47,7 @@
 						<span class="icon-bar"></span>
 					</button>
 					<a href="index.html" target="_blank">
-					  <img class="img-responsive" src="imagenes/logoatvs2t.png" alt="ATV Sport">
+					  <img class="logo img-responsive" src="imagenes/logoatvs2t.png" alt="ATV Sport">
 				 	</a>
 				</div>
 			   <div id="navbar" class="navbar-collapse collapse pull-right">
@@ -128,7 +128,7 @@
 
 			<!-- Tres columnas bajo el carousel -->
 			<div class="row">
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-9">
 					<img class="img-rounded img-responsive" src="imagenes/big/Island-Peak/island_peak-trek2-red.JPG" alt="Trekking Island Peak" width="330" height="240">
 					<h2>Trekking</h2>
 					<p class="lead">
@@ -138,7 +138,7 @@
 						<a class="btn btn-default" href="treking.html" role="button">VER MÁS &raquo;</a>
 					</p>
 				</div><!-- /.col-lg-4 -->
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-9">
 					<img class="img-rounded img-responsive" src="imagenes/big/Everest/vistas-everest2-red.JPG" alt="Expedición Annapurna" width="330" height="240">
 					<h2>Expediciones</h2>
 					<p class="lead">
@@ -148,7 +148,7 @@
 						<a class="btn btn-default" href="expediciones.html" role="button">VER MÁS &raquo;</a>
 					</p>
 				</div><!-- /.col-lg-4 -->
-				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-9">
 					<img class="img-rounded img-responsive" src="imagenes/big/Everest/vistas-everest3-red.JPG" alt="Tu aventura" width="330" height="240">
 					<h2>Crea tu aventura</h2>
 					<p class="lead">

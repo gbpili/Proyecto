@@ -6,9 +6,9 @@
 		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
 		<meta name="description" content="" />
 		<meta name="author" content="Mª Pilar Llaves" />
-		<link rel="icon" href="../../favicon.ico" />
 
-		<title>Trek Langtang</title>
+		<link rel="icon" href="../../favicon.ico" />
+		<title>Expedicion Everest</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
@@ -25,6 +25,7 @@
 		<script src="../../assets/js/ie-emulation-modes-warning.js"></script>
 		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 		<script src="bower_components/jQuery/dist/jquery.min.js"></script>
+		
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
@@ -35,8 +36,8 @@
 	</head>
 
 	<body>
-
-		<!-- CABECERA DE PAGINAS Logo y Barra de navegación fija-->
+	
+			<!-- CABECERA DE PAGINAS Logo y Barra de navegación fija-->
 		  <nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
@@ -68,22 +69,22 @@
 					</ul>
 				</div><!--/.nav-collapse -->
 			</div>
-		  </nav> <!-- FIN CABECERA --> 
+		  </nav>
 		      
 		  <!-- Container -->    
 		  <div class="container">
-		  	<h1 class="titulo2"><b> TREKKING LANGTANG VALLEY </b></h1> 	 
+		  	<h1 class="titulo2"><b> EXPEDICION EVEREST </b></h1> 	 
 			
       		<div class="row-act">
-        	    <div class="col-md-5 col-sm-11 col-xs-12">
+        	    <div class="col-md-5 col-sm-8 col-xs-12">
         	      <figure>
-        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/langtang-valley-trek.jpg" alt="Trek Langtang Valley"/>
+        	      	 <img class="img-thumbnail img-responsive center-block" src="imagenes/big/Everest/everest-expedition.jpg" alt="Exped Everest"/>
         	      </figure>
         	      
         		</div>
         		<div class="col-act col-md-offset-1 col-md-2 col-sm-4 col-xs-4">
         		  <h3>Duración</h3>
-          			<h2><span class="label label-info">11 días</span></h2>
+          			<h2><span class="label label-info">64 días</span></h2>
           		</div>
         		<div class="col-act col-md-2 col-sm-4 col-xs-4">
         		  <h3>Precio</h3>
@@ -91,14 +92,12 @@
            		</div>
            		<div class="col-act col-md-2 col-sm-4 col-xs-4">
         		  <h3>Altitud Máx.</h3>
-          			<h2><span class="label label-info">4.900m</span></h2>
+          			<h2><span class="label label-info">8.848m</span></h2>
            		</div>
            		<div class="container">
            		  <div class="jumbotron">	<!-- Introduccion-->
-              		<p> <br /> Te sugerimos un enfoque distinto de 11 días al corazón de Langtang Valley. Desde Langtang o Kyanjin Gompa hay varias alternativas a regresar. Es posible caminar de regreso a Dhunche en sólo 3 días, 
-              			porque gran parte de la ruta es cuesta abajo, pero si usted tiene habilidades básicas de montañismo (y hay buen tiempo), podemos cruzar Ganja La en el Helambu. 
-              			Una tercera alternativa es caminar de regreso a Syabru, después de cruzar a través Helambu Gosainkunda.
-              			<br />  <br />
+              		<p>Incluso la gente que sabe muy poco acerca de Nepal sabe que el Monte Everest es la montaña más alta del mundo. <br />  Cada año, miles de personas realizan el trekking al campamento base del Everest 
+              			para una vista de primer plano del rey de las montañas. Pero ¿por qué no ir más allá del campamento base y conquistar este magnífico pico? No hay duda de que escalar el Everest es definitivamente un reto. Es factible con la ayuda de nuestros experimentados guías y porteadores. 
 					</p>
 				    <button type="button" class="btn btn-info btn-block" onclick="location.href='contacto.html'">Reservar</button> 
 				  </div>  <!-- jumbotron -->
@@ -109,20 +108,32 @@
 			  <h2 class="titulo2">ITINERARIO</h2> <br />
 			  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 			  	<p><b>Dia 01</b> : Llegada a Katmandú (KTM). Traslado al hotel . <br />
-				   <b>Dia 02</b> : Traslado a Syabrubesi en todoterreno (Jeep o similar) (1.550m). <br />
-				   <b>Dia 03</b> : Trek Syabrubesi- Lama (2.380m). <br />
-				   <b>Dia 04</b> : Trek Lama - Langtang. (3.500m). <br />
-				   <b>Dia 05</b> : Trek Langtang - Kyanjin Gompa(3.795m). <br />
-			  	   <b>Dia 06</b> : Trek Kyanjin Gompa - Cherko Ri (4.900m). Escalada y regreso a Kyanjin Gompa. <br />
+				   <b>Dia 02</b> : Preparativos en KTM. Compras de todo lo necesario para el viaje. <br />
+				   <b>Dia 03</b> : Preparativos en KTM. <br />
+				   <b>Dia 04</b> : Vuelo KTM - Lukla y trek hasta Phanding (2.640m). <br />
+				   <b>Dia 05</b> : Trek Phakding - Namche Bazaar (3.440m). <br />
+			  	   <b>Dia 06</b> : Aclimatación. <br />
+				   <b>Dia 07</b> : Trek Namche Bazaar - Tengboche (3.800m). <br />
+				   <b>Dia 08</b> : Trek Tengboche- Dingboche (4.400m). <br />
+				   <b>Dia 09</b> : Aclimatación. <br />
+				   <b>Dia 10</b> : Trek Dingboche - Lobuche (4.900m). <br />
+				   
 				   
 			  	</p>
 			  </div>
 			  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-			  	<p><b>Dia 07</b> : Trek Kyanjin Gompa - Lama. <br />
-				   <b>Dia 08</b> : Trek Lama - Syabrubesi. <br />
-				   <b>Dia 09</b> : Traslado en vehículo desde Syabrubesi a KTM. <br />
-				   <b>Dia 10</b> : Dia libre para visitar KTM o realizar compras. <br />
-				   <b>Dia 11</b> : Traslado a aeropuerto internacional y vuelo de regreso. <br />
+			  	<p><b>Dia 11</b> : Trek Lobuche - Gorak Shep (5.150m). <br />
+				   <b>Dia 12</b> : Trek Gorak Shep - CB Everest (5.400m). <br />
+			  	   <b>Dia 13</b> : Aclimatación. <br />
+			  	   <b>Dia 14-57</b> : Periodo de escalada al Everest y regreso al campo base. <br />
+				   <b>Dia 58</b> : Descanso en campo base. <br />
+				   <b>Dia 59</b> : Trek CB Everest - Pheriche. <br />
+				   <b>Dia 60</b> : Trek Pheriche - Namche Bazaar. <br />
+				   <b>Dia 61</b> : Trek Namche Bazaar - Lukla. <br />
+				   <b>Dia 62</b> : Vuelo Lukla - KTM. <br />
+				   <b>Dia 63</b> : Dia libre para visitar KTM o realizar compras.  <br />
+				   <b>Dia 64</b> : Traslado a aeropuerto internacional y vuelo de regreso.  <br />
+				   
 			  	</p>
 			  </div>
 			</article>	  
@@ -131,24 +142,33 @@
 			<article class="row">
 			  <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
 			  	<h3>SERVICIOS INCLUIDOS</h3> <br /> 
-			  	<p>+ Visitas de lugares de interés con guía.<br />
-			  	   + Entrada a Parque Nacional Langtang. <br />	
+			  	<p>+ Permiso de escalada y entrada a Parque Nacional.<br />
 				   + Traslados entre el aeropuerto y Katmandú. <br />
-				   + Traslados en vehículo entre KTM y Syabrubesi . <br />
+				   + Vuelos entre Katmandú y Lukla. <br />
+				   + Tasa de equipamiento de la cascada del Khumbu. <br />
+				   + Comidas en aproximación y estancia en CB (55 días). <br /> 
 				   + Alojamientos:<br />
-				     &nbsp; &nbsp;* Katmandú => Hotel Gangjong en habitación doble durante 3 noches con desayuno. <br />
-				     &nbsp; &nbsp;* Trekking => Alojamiento en Lodge en régimen de pensión completa. 7 días. <br />
-				   + 1 Guía local y porteadores de trekking. <br />
+				     &nbsp; &nbsp;* Katmandú => Hotel Gangjong en habitación doble durante 5 noches con desayuno. <br />
+				     &nbsp; &nbsp;* Trekking => Alojamiento en régimen de pensión completa en aproximación y CB. <br />
+				     &nbsp; &nbsp;* Tiendas de campaña para aproximación y CB. Aproximación en Lodge. CB: 1 deportista por tienda.  <br />
+				  + Staff: <br />
+				     &nbsp; &nbsp;* CB => Oficial de enclace. Cocinero CB. Cocinero CBA. Ayudante de cocina. <br />
+				     &nbsp; &nbsp;* Porteadores => 50 kg de material por deportista. <br />
 			   	</p>
 			  </div>
 			  <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 			    <h3>SERVICIOS NO INCLUIDOS</h3> <br />
-			  	<p>+ Equipamiento personal para el trekking. <br />
+			  	<p>+ Costes extras por variaciones del programa previsto. <br />
+			  	   + Material técnico personal. <br />
+			  	   + Sacos de dormir. <br />
 				   + Seguro de viaje personal. <br />
-				   + Almuerzos y cenas en Katmandú. <br />
+				   + Comidas no especificadas y extras durante estancias, así como almuerzos y cenas en ciudades. <br />
 				   + Evacuación o rescate de emergencia. <br />
-				   + Gastos personales / Facturas de bar. <br />
-				   + Propinas para el personal de trekking. <br />
+				   + Porteadores o yaks extras. <br />
+				   + Porteadores de altura. <br />
+				   + Propinas para el personal. <br />
+				   + Oxigeno, máscara y regulador. <br />
+				   + Seguros de cancelación. <br />
 				   
 			  	</p>
 			  </div>
@@ -156,7 +176,7 @@
 			 
 		    <hr class="featurette-divider">
 		 	 
-		   <!-- FOOTER -->
+		  <!-- FOOTER -->
 			
 			<footer> 
 			   <div class="row featurette">
@@ -189,7 +209,7 @@
 			   <hr class="featurette-divider">
 
       		   <p class="pull-right">
-				 <a href="trek-langtang.html">Subir</a>
+				 <a href="exp-everest.html">Subir</a>
 			   </p>
 			   <p>
 			      &copy; 2015 ATVSport. &middot; <a href="contacto.html">Email: atvsport@grupoatv.com</a>
@@ -204,6 +224,6 @@
 		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 		<script src="bower_components/bootstrap3-ie10-viewport-bug-workaround/ie10-viewport-bug-workaround.js"></script>
-	    
+	 
 	</body>
 </html>
