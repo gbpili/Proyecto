@@ -133,7 +133,15 @@ ul li img{
 	
 	
 }
-/* Para que el colapso de la barra de navegación funcione correctamente */
+/*
+@media screen and (min-width: 740px) and (max-width: 1200px){
+	nav.navbar.navbar-default.navbar-fixed-top div.container div.navbar-header a img.logo.img-responsive,
+	nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right ul.nav.navbar-nav
+	{
+		width:50%;
+	}
+	
+}*/
 
 
 @media (max-width: 1200px) {
@@ -161,7 +169,7 @@ ul li img{
         padding-top: 10px;
         padding-bottom: 10px;
     }
-    
+    /* since 3.1.0 */
     .navbar-collapse.collapse.in { 
         display: block!important;
     }

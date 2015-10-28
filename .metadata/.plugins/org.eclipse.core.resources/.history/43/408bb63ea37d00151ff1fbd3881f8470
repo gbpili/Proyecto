@@ -137,7 +137,7 @@ ul li img{
 
 
 @media (max-width: 1200px) {
-    .navbar-header {
+    /*.navbar-header {
         float: none;
     }
     .navbar-toggle {
@@ -164,7 +164,7 @@ ul li img{
     
     .navbar-collapse.collapse.in { 
         display: block!important;
-    }
+    }*/
     .collapsing {
         overflow: hidden!important;
     }

@@ -125,47 +125,18 @@ ul li img{
 }
 
 
+
 /* Para dispositivos medios  992px*/
 @media screen and (min-width: 740px) and (max-width: 1024px){
 	.container h1.titulo2, .container h2.titulo2{
 		 margin-top: 110px;
 	}
 	
+	html body nav.navbar.navbar-default.navbar-fixed-top div.container div.navbar-header a img.logo.img-responsive{
+		width: 50%;
+	}
+	html body nav.navbar.navbar-default.navbar-fixed-top div.container div#navbar.navbar-collapse.collapse.pull-right.visible.lg ul.nav.navbar-nav{
+		width: 50%;
+	}
 	
-}
-/* Para que el colapso de la barra de navegación funcione correctamente */
-
-
-@media (max-width: 1200px) {
-    .navbar-header {
-        float: none;
-    }
-    .navbar-toggle {
-        display: block;
-    }
-    .navbar-collapse {
-        border-top: 1px solid transparent;
-        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
-    }
-    .navbar-collapse.collapse {
-        display: none!important;
-    }
-    .navbar-nav {
-        float: none!important;
-        margin: 7.5px -15px;
-    }
-    .navbar-nav>li {
-        float: none;
-    }
-    .navbar-nav>li>a {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    
-    .navbar-collapse.collapse.in { 
-        display: block!important;
-    }
-    .collapsing {
-        overflow: hidden!important;
-    }
 }
